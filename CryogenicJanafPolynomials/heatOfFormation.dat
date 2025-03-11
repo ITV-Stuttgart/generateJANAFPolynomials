@@ -1,0 +1,1815 @@
+H2;Dihydrogen;     0;     0
+He;Helium;     0;     0
+C;Carbon;     0;     0
+N2;Dinitrogen;     0;     0
+O2;Dioxygen;     0;     0
+F2;Difluorine;     0;     0
+Ne;Neon;     0;     0
+Si;Silicon;     0;     0
+S;Sulfur;     0;     0
+Cl2;Dichlorine;     0;     0
+Ar;Argon;     0;     0
+Br2;Dibromine;     0;     0
+Kr;Krypton;     0;     0
+I2;Diiodine;     0;     0
+Xe;Xenon;     0;     0
+Pt;Platinum;     0;     0
+Rn;Radon;     0;     0
+D2;Deuterium molecule;     0;     0
+H;Hydrogen atom;216.034;217.998
+O;Oxygen atom;246.844;249.229
+CH4;Methane;-66.54;-74.51
+H2O;Water;-286.273;-285.801
+N;Nitrogen atom;470.582;472.445
+CO2;Carbon dioxide;-393.111;-393.477
+H+;Hydron;1528.08;1530.05
+CH3CH3;Ethane;-68.39;-84.01
+Cl;Chlorine atom;119.621;121.302
+F;Fluorine atom;77.254; 79.36
+CH2CH2;Ethylene; 60.91;  52.4
+CH3CH2CH3;Propane;-82.71;-104.99
+CH3;Methyl;149.883;146.482
+CH3OH;Methanol;-189.96;-200.84
+NH3;Ammonia;-38.563;-45.556
+Br;Bromine atom;117.925;111.863
+OH;Hydroxyl;37.278;37.517
+CH2O;Formaldehyde;-105.38;-109.22
+HCCH;Acetylene;228.89;228.34
+CH3CH2OH;Ethanol;-217.17;-234.89
+CO;Carbon monoxide;-113.799;-110.518
+HCl;Hydrogen chloride;-91.988;-92.172
+C6H6;Benzene; 100.7; 83.19
+I;Iodine;107.157;106.757
+CH3CHCH2;Propene; 34.92; 20.08
+HF;Hydrogen fluoride;-272.679;-272.726
+CH3CH2;Ethyl;131.52;120.77
+HCN;Hydrogen cyanide;129.688;129.303
+HBr;Hydrogen bromide;-27.51;-35.36
+NO;Nitric oxide;90.622;91.126
+CH3NH2;Methylamine; -6.45;-21.16
+CH3CHO;Acetaldehyde;-154.86;-165.39
+CH3CCH;Propyne;192.73;185.58
+CH3Cl;Chloromethane;-74.65;-82.58
+CH3C(O)CH3;Acetone;-199.92;-216.87
+HOO;Dioxidanyl; 15.07; 12.16
+HI;Hydrogen iodide;28.646;26.471
+[OH]-;Hydroxyde;-139.064;-139.03
+CH2CCH2;Allene; 197.5;190.04
+ONO;Nitrogen dioxide;36.861;34.054
+CH2CH;Vinyl;301.26;297.22
+CH2;Methylene;391.076;391.622
+HOOH;Hydrogen peroxide;-129.418;-135.404
+CH3F;Fluoromethane;-227.44;-235.47
+CH3CH2CH2CH3;n-Butane;-98.22;-125.53
+C6H5CH3;Toluene; 73.37; 50.08
+SiH4;Silane; 42.66; 33.04
+OOO;Ozone;144.407;141.744
+CH2CHCHCH2;1,3-Butadiene;125.64;111.17
+CH3C(O)OH;Acetic acid;-418.43;-432.59
+F-;Fluoride;-250.911;-249.126
+NH4OH;Ammonium hydroxide;   nan;-366.37
+CH2CO;Ketene;-45.33;-48.39
+CN;Nitrilomethyl;436.73;440.02
+CH3Br;Bromomethane;-20.45;-35.85
+CH3O;Methoxy; 28.98; 21.61
+HC(O)OH;Formic acid;-370.98;-378.3
+CH3CH2NH2;Ethylamine;-28.02;-49.79
+C6H5;Phenyl;352.64;339.28
+CH3CN;Acetonitrile; 81.15; 74.08
+CH2OH;Hydroxymethyl; -10.1;-16.41
+OSO;Sulfur dioxide;-294.2;-296.74
+[CH3O]-;Methoxide;-122.41;-130.13
+CH2CCH;Propargyl;354.11;351.52
+CH(CH3)3;iso-Butane;-105.87;-134.47
+HOCl;Hypochlorous acid;-73.84;-76.78
+CCH;Ethynyl;563.76;567.87
+NH2;Amidogen;188.92;186.03
+CF4;Tetrafluoromethane;-927.63;-933.6
+HCO;Formyl; 41.39;41.764
+CH(O)NH2;Formamide;-178.64;  -189
+CH3CH2CH2;n-Propyl;118.47;101.07
+CH2(CH2CH2);Cyclopropane; 71.07; 53.95
+CH2(CHCHCHCH);Cyclopentadiene; 151.9;134.78
+CH3CHCH3;iso-Propyl;105.68; 88.81
+CH2CHOH;Ethenol;-113.27;-124.4
+CH2CHCH2;Allyl;179.92; 168.2
+CH3CO;Acetyl;  -3.6;-10.17
+CH3CH2Cl;Chloroethane;-96.94;-111.53
+Cl-;Chloride;-228.953;-227.346
+CH3OCH3;Methoxymethane;-166.39;-183.89
+CH2OO;Dioxymethyl;112.11;105.11
+CH2NH;Methanimine; 96.39; 88.48
+[CH3CH2]+;Ethylium;915.19;903.11
+CHF3;Fluoroform;-689.28;-696.23
+[HCO]+;Oxomethylium;827.766;827.182
+CF3;Trifluoromethyl;-465.14;-467.94
+CH;Methylidyne;592.977;596.311
+CH3OOH;Methyl hydroperoxide;-114.82;-127.64
+C6H5OH;Phenol;-74.34;-92.93
+CCl4;Tetrachloromethane;-89.28;-91.45
+C6H5C(O)H;Benzaldehyde;-19.16;-36.95
+Br-;Bromide;-206.612;-212.674
+HOBr;Hypobromous acid;-51.27;-61.74
+CH3I;Iodomethane; 24.53; 14.99
+CH3OO;Methylperoxy; 22.56; 13.11
+[H3O]+;Oxonium;605.89;599.14
+HCCCN;Cyanoacetylene;372.26;   374
+ClO;Chlorooxidanyl;101.124;101.716
+I-;Iodide;-187.996;-188.396
+HON(O)O;Nitric acid;-124.42;-134.13
+HOCO;Hydroxyformyl;-181.14;-184.1
+CH2CHCl;Vinyl chloride; 29.41; 21.82
+NH2CH2C(O)OH;Glycine;-377.67;-396.14
+[NH4]+;Ammonium;643.01; 631.7
+NH;Imidogen;358.75; 358.8
+CH3CHOH;1-Hydroxyethyl; -42.7;-56.13
+(CH3)2NH;Dimethylamine;  4.66;-16.98
+CH2CHCCH;Vinylacetylene;296.48;289.72
+OS(O)O;Sulfur trioxide;-389.75;-395.5
+O(CH2CH2);Oxirane;-39.72;-52.27
+[CH3CH2O]-;Ethoxide;-163.74;-178.68
+O-;Oxygen atom anion;105.868;108.096
+HCCCCH;1,3-Butadiyne; 458.4;460.13
+[CH3]+;Methylium;1099.36;1095.41
+HNCO;Isocyanic acid;-115.93;-118.93
+NH2CN;Cyanamide;141.62; 135.6
+CF2O;Difluorophosgene;-603.34;-606.44
+HOF;Hypofluorous acid;-84.38;-87.28
+CH2C(CH3)2;Isobutene;  4.31;-16.75
+CH2CH2OH;2-Hydroxyethyl;-12.87;-26.13
+CH3NCH2;N-Methylenemethanamine; 94.61; 79.69
+CH2Cl2;Dichloromethane;-86.84; -93.7
+C6H5Cl;Chlorobenzene; 67.28; 52.32
+CH3N(O)O;Nitromethane;-60.58;-74.48
+CH3NH;Methylamidogen;187.99;177.34
+CH3NC;Isocyanomethane;183.81;177.26
+CH3CHCCH2;1,2-Butadiene;176.06;162.56
+C6H5CH2;Benzyl;230.16;211.35
+CH(CHCHCHCH);Cyclopentadienyl;275.62;262.51
+CH3CH2OOH;Ethyl hydroperoxide;-142.47;-160.89
+[CCH]-;Ethynide;277.32;280.73
+SiH(CH3)3;Trimethylsilane;-125.8;-151.9
+H2S;Hydrogen sulfide;-17.36;-20.29
+H-;Hydride;143.264;145.228
+ClCN;Cyanogen chloride;135.14;135.84
+[C6H5]-;Phenide;244.27;230.84
+CH2(CHCH);Cyclopropene; 292.6;283.87
+[HC(O)O]-;Formate;-463.1;-466.74
+HC(O)OCH3;Methyl formate;-346.82;-359.87
+[H3]+;Trihydrogen cation;1110.3;1106.7
+CF;Fluoromethylidyne;243.17;246.78
+CH2CHCHO;Acrolein;-55.11;-65.51
+OS(O)(OH)2;Sulfuric acid;   nan;-887.52
+SiF4;Tetrafluorosilane;-1608.76;-1614.27
+O+;Oxygen atom cation;1560.79;1562.64
+HONO;Nitrous acid;-72.988;-79.132
+[CH2OH]+;Hydroxymethylium;717.75;709.81
+[CN]-;Cyanide;63.983;67.269
+CH3CCCH3;2-Butyne;159.59;146.62
+HCCCH;Propynylidene;543.73;546.73
+CH2F2;Difluoromethane;-443.32;-450.93
+CH2CHBr;Vinyl bromide; 88.84; 74.03
+SiH3;Silyl;204.71;199.23
+S(O)(OH)2;Sulfurous acid;   nan;-617.29
+FOF;Oxygen difluoride;  26.8; 24.55
+[ClO]-;Hypochlorite;-118.6;-118.33
+HOI;Hypoiodous acid; -53.6; -58.3
+HNO;Nitrosyl hydride;109.93;106.96
+CH2CCCH2;Butatriene;328.44;322.18
+CH3CH2O;Ethoxy;  1.39;-12.51
+CH2CHO;Vinoxy; 22.92; 16.12
+CH3CH2OO;Ethylperoxy; -6.09;-22.11
+CH3C(OH)CH2;Acetone enol;-151.24;-168.53
+CCl2O;Phosgene;-217.49;-219.18
+CH3C(O)CH2OH;1-Hydroxy-2-propanone;-354.4;-373.79
+HNCN;Cyanoamidogen;322.73;320.24
+CHCl3;Chloroform;-94.51;-99.42
+CF2CF2;Tetrafluoroethylene;-670.66;-674.06
+C6H5CO;Benzoyl;138.85;125.32
+CH3ONO;Methyl nitrite;-54.33;-66.11
+CH2CHCN;Acrylonitrile;194.02;187.26
+SiH3OH;Silanol;  -271;-282.7
+C6H4(C4H4);Naphthalene;171.17;147.69
+CCC;1,2-Propadiene-1,3-diylidene; 814.4;823.36
+[CH2CH]-;Vinyl anion;   237;232.58
+BrCN;Cyanogen bromide; 186.8; 180.2
+CH3CH2CH2CH2;n-Butyl; 103.1;  80.6
+C(CH3)4;neo-Pentane;-134.25;-167.12
+CH3CHCHCH3;trans-2-Butene;  9.69;-10.88
+CH2CHCH2CH3;1-Butene; 21.24;  0.29
+CH3CH2CH2CH2CH2CH3;n-Hexane;-129.89;-166.76
+CH2CHOOH;Vinyl hydroperoxide;-26.04;-38.32
+CH3CH2CHO;Propionaldehyde;-171.09;-186.5
+CH3C(O)OCH3;Methyl acetate;-394.13;  -413
+CH3C(O)CH2;Acetonyl;-18.39;-31.99
+NH(CH2CH2);Aziridine;143.58;127.05
+CBr4;Tetrabromomethane; 144.8; 115.1
+CH3CH2Br;Ethyl bromide;-40.97;-62.92
+CH2CCO;Propadienone;132.23;130.59
+ClF;Chlorine fluoride;-55.622;-55.717
+[NNH]+;Diazynium;1042.57;1038.96
+[ONO]-;Nitrite;-182.63;-185.44
+NH2OH;Hydroxylamine;-33.06;-43.44
+CCH2;Vinylidene;411.24;412.15
+CH2NH2;Aminomethyl;159.42;149.58
+CH3CH2CCH;1-Butyne;180.43;166.84
+[CH3C(O)O]-;Acetate;-495.87;  -505
+NCN;Methanetetraylbisamidogen; 451.4;451.81
+CHBr3;Bromoform; 80.98; 54.83
+CH2CHF;Vinyl fluoride;-134.5;-142.31
+[C6H5]+;Phenylium;1149.32;1136.54
+C6H4(CHCHCH2);Indene; 183.8;159.91
+C6H5F;Fluorobenzene;-96.04;-111.71
+CH3CH2ONO;Ethyl nitrite;-79.93;-98.67
+FO;Fluorooxidanyl;110.28; 110.9
+NNO;Nitrous oxide; 86.02;82.591
+[NH2]-;Azanide;114.65;111.77
+[CH5]+;Methanium;922.03;911.78
+HOONO;Peroxynitrous acid; -5.74;-14.18
+CH3CH;Ethylidene;361.31; 354.3
+[CH2NH2]+;Aminomethylium;763.62;751.65
+CH2CN;Cyanomethyl;262.84;259.96
+FCN;Cyanic fluoride;  8.49;  8.82
+CH2CC;Propadienylidene;554.47;555.61
+(CH3)3C;t-Butyl; 75.36; 50.07
+CH3CH2CH2CH2CH3;n-Pentane;-114.16;-146.04
+CH2(OH)2;Methanediol;-378.49;-392.43
+NCO;Cyanooxidanyl;126.96;127.44
+CH2CHNH2;Ethenamine; 69.39; 54.83
+CH3CH2F;Fluoroethane;-257.24;-272.1
+CF3Cl;Chlorotrifluoromethane;-704.26;-709.37
+N(CHCHCHCHCH);Pyridine;157.34;140.53
+NH2CO;Carbamoyl; -7.73;-14.14
+CH2CCCH;1,2,3-Butatrien-1-yl;497.55;497.57
+SiH3SiH3;Disilane;    92;  75.9
+CH3CCCCCH3;2,4-Hexadiyne;380.37;370.34
+BrO;Bromooxidanyl;131.22;123.68
+NH2O;Aminooxy; 70.65; 64.05
+HNOH;Hydroxyamidogen;101.27; 94.43
+[O2]+;Dioxygen cation;1164.59;1165.22
+C2;Ethynylene;819.984;828.45
+[CH3CH2]-;Ethanide;155.44;144.36
+[CH2CH]+;Vinylium;1119.2;1115.75
+HCOH;Hydroxymethylene; 112.7;108.93
+C(O)(OH)2;Carbonic acid;-602.24;-612.42
+HC(O)OOH;Peroxyformic acid;-279.2;-288.55
+[CH2CCH]-;1,2-Propadienyl anion; 266.1;263.04
+CH3CH2CH2OH;1-Propanol;-231.13;-254.97
+CH2(CH2CH2CH2CH2);Cyclopentane;-43.37;-75.94
+CH3CHOO;2-Ethylidenedioxidan-2-ium-1-ide; 51.25; 37.79
+[C6H5O]-;Phenolate;-145.96;-161.42
+CH3CHNH;(1E)-Ethanimine; 55.81;  39.6
+HCNN;Diazomethyl;467.86;465.31
+CF3Br;Bromotrifluoromethane;-638.62;-650.74
+CH(CH(CHCH));Tetrahedrane;547.73;539.32
+SiH2;Silylene; 271.6;269.94
+OClO;Chlorine dioxide;101.42; 98.95
+[BrO]-;Hypobromite;-95.99;-103.47
+NF3;Nitrogen trifluoride;-125.84;-131.56
+HNNH;(E)-Diazene;207.17;200.03
+HCNH;(E)-Iminomethyl; 275.8;272.19
+NCCN;Cyanogen;308.19;310.14
+HC(O)OO;Peroxyformyl;-100.4;-105.71
+CH3CCH2;1-Methylethenyl;263.05;252.65
+CH2(CH2CHCHCH2);Cyclopentene; 59.94; 35.67
+HOOOH;Trioxidane;-81.75;-90.59
+CH2(OO);Dioxirane;  9.43;  1.76
+(CH3)3N;Trimethylamine;   2.7;-26.16
+CH2NN;Diazomethane;273.63;267.36
+CCl2;Dichloromethylene;229.88;231.06
+[CF3]+;Trifluoromethylium;409.81; 406.6
+CH3CHCO;Methylketene; -54.1;-63.58
+SiH2SiH2;Disilene; 288.8; 280.2
+HCCCCCH3;1,3-Pentadiyne; 418.2;413.98
+S2;Disulfur;127.38;127.69
+CH3SCH3;Dimethyl sulfide;-20.22;-36.74
+[OOO]-;Ozonide;-58.47;-60.83
+NNN;Azido radical;452.38;449.79
+[NO]+;Nitrosyl ion;984.49;984.485
+[HOCO]+;Hydroxyoxomethylium;600.71;597.63
+HNNN;Hydrazoic acid;297.99;291.69
+FOOF;Difluorodioxidane; 35.38; 31.65
+[CH3CO]+;Acetylium;666.71;659.42
+HNC;Hydrogen isocyanide;192.07;192.45
+HCCCl;Chloroacetylene;229.36;230.23
+HCCF;Fluoroacetylene;104.99;105.71
+[CH3CHCH3]+;iso-Propylium;822.99;805.91
+CH3CHCH;1-Propenyl;278.21;267.37
+[CH3CHOH]+;1-Hydroxyethylium; 608.9;594.48
+HCCO;Ketenyl;177.11; 178.2
+HCCOH;Ethynol; 95.32; 92.83
+CH2(OH)O;Hydroxymethoxy;-159.58;-169.54
+CH3CH2CH2CH2OH;1-Butanol;-244.49;-274.74
+HC(O)CH2OH;Glycolaldehyde;-304.28;-317.55
+OCHCHO;Glyoxal;-207.82;-213.46
+CH3NHCH2;(Methylamino)methyl;168.81;152.36
+HC(NN);Diazirinyl;491.09; 487.7
+CH2(NN);Diazirine; 320.7;   313
+CCl3;Trichloromethyl; 73.79; 73.31
+CH3CHCl2;1,1-Dichloroethane;-120.15;-132.92
+CH2Br2;Dibromomethane; 27.01;  5.61
+C6H5Br;Bromobenzene;   127;   105
+C6H5CHCH2;Phenylethene;169.91;148.57
+C6H5CCH;Phenylacetylene;332.81;317.65
+C6H5O;Phenoxy;  71.5; 56.22
+[HOO]-;Dioxidanide;-88.92;-91.58
+C6H5C(O)CH3;Acetophenone;-60.71; -83.9
+CH3NO;Nitrosomethane; 80.95; 71.04
+HCCNC;Isocyanoacetylene; 484.8;487.03
+CH(CHCHCH);Cyclobutadiene;436.58;428.12
+CH2C(CHCHCHCH);Fulvene; 232.2; 216.1
+SiH3SiH2;Disilanyl; 242.4; 230.4
+SiH2O;Silanone;-93.77;-99.12
+SiH3O;Silyloxy;   8.5;   0.6
+SH;Sulfanyl;142.81;143.27
+CH3SH;Methanethiol;-10.39;-20.66
+HOClO;Chlorous acid; 25.77; 20.71
+[O2]-;Dioxygen anion;-43.36;-42.72
+IO;Iodooxidanyl;127.05;125.12
+CF3I;Iodotrifluoromethane;-583.19;-589.09
+[CO]+;Carbon monoxide cation;1238.31;1241.59
+NH2NH2;Hydrazine;111.75;  97.6
+[ON(O)O]-;Nitrate;-299.73;-306.28
+[CH3]-;Methanide;141.16;137.72
+CH2N;Methyleneamidogen;242.08;238.43
+[FO]-;Hypofluorite;-108.84;-108.67
+ICN;Cyanogen iodide; 222.5;   222
+[HCO]-;Formyl anion;  11.6; 11.98
+[CH3CH2CH2]+;n-Propylium;857.17;838.89
+CH(CH2CH2);Cyclopropyl;303.91;291.29
+CCCH;2-Propynylidyne;718.79;723.14
+CH3CH2CH(CH3)2;iso-Pentane;-118.9;-152.95
+CH3COH;1-Hydroxyethylidene; 57.45; 47.08
+CCO;Dicarbon monoxide;377.13;381.17
+(CH3)2N;Dimethylamidogen;175.07;157.73
+CH2CHNH;2-Iminoethyl;219.37;   208
+HNNC;Isocyanoamidogen; 489.7; 487.7
+FOO;Fluorodioxidanyl; 26.87; 25.16
+CHCl;Chloromethylene;320.36;320.65
+CH2CF2;1,1-Difluoroethene;-343.59;-350.65
+C6H4(CH2CH2CH2);Indane; 90.89; 59.86
+CH3C6H4C(O)H;o-Tolualdehyde; -44.1; -66.4
+NH2C(O)OH;Carbamic acid;-421.82;-435.04
+CH3C(O)CHCH2;3-Buten-2-one;-95.28;-111.52
+NH2C(O)NH2;Urea;-218.16;-234.56
+[NH2CO]+;Oxomethaniminium;695.33;688.77
+CH3C(O)NH2;Acetamide;-219.62;-237.13
+CH2CCN;1-Cyanovinyl; 419.1; 418.9
+HCCCCCH2CH3;1,3-Hexadiyne;405.25;393.56
+CH3CHCHCH2;(E)-1-Methylallyl; 152.7;135.38
+ICl;Iodine monochloride;19.024;17.391
+[IO]-;Hypoiodite;-102.38;-104.19
+N+;Nitrogen atom cation;1872.91;1875.69
+[NNN]+;Trinitrogen cation;1519.59;1516.96
+[NO]-;Oxonitrate anion;  88.1; 88.13
+ONN(O)O;Nitrogen sesquioxide; 90.73; 86.16
+CF3CF3;Hexafluoroethane;-1334.05;-1342.35
+[CH2]+;Methyliumyl;1393.21;1394.07
+[CH2]-;Methylene anion;328.18;328.61
+[CH]-;Methylidyne anion;475.77;479.09
+[C2H7]+;Ethanium;874.39;858.13
+[CH3NH3]+;Methylammonium;628.36;609.45
+FCl(F)F;Chlorine trifluoride;-158.62;-162.72
+[CH3OO]-;Methylperoxy anion;-89.66;-99.81
+CH2(CH2CH2CH2);Cyclobutane; 52.27; 27.73
+CH3CCCH2;2-Butynyl;318.18;310.81
+CH3CHCCH;1,2-Butadienyl;328.98;320.26
+CH2C(CH3)CHCH2;Isoprene; 96.29; 75.77
+O(CHCH);Oxirene;272.44;270.29
+CH(OH)2;Dihydroxymethyl;-196.9;-206.3
+HC(O)O;Formyloxidanyl;-125.76;-127.42
+CH3CH2OCH3;Methoxyethane;-194.27;-217.16
+[HNCN]-;Cyanoamidogen anion; 69.75; 66.74
+CH3CCl3;1,1,1-Trichloroethane;-133.96;-144.53
+CCl2CCl2;Tetrachloroethene;-20.52;-21.38
+Cl+;Chlorine atom cation;1370.81;1372.6
+CHClF2;Chlorodifluoromethane;-475.57;-481.76
+CHF;Fluoromethylene; 148.4;148.69
+FCO;Fluoroformyl;-176.62;-176.03
+BrCH2CH2OH;2-Bromoethanol;-195.98;-220.04
+OCCCO;Carbon suboxide;-94.41; -92.3
+C6H5CH2CH3;Ethylbenzene; 58.43; 29.96
+CH3NHC(O)OH;Methylcarbamic acid;-414.5;-433.83
+CHCHCHO;3-Oxo-1-propenyl;190.97;184.95
+CHCCHO;2-Propynal;135.53;133.37
+HCCN;Cyanomethylene; 479.6;   483
+CH2C(CHCH);3-Methylenecyclopropene;396.11;388.18
+C6H5OO;Phenylperoxy;   154;   137
+SiF;Fluorosilylidyne;-60.32;-58.48
+SiH;Silylidyne;371.23;373.03
+SiH3Br;Bromosilane;   -59; -75.5
+SiBr(CH3)3;Bromotrimethylsilane;-259.4;  -290
+[Si(CH3)3]+;Trimethylsilylium; 655.4; 634.8
+CH3CCHCH3;1-Methyl-1-propenyl;240.12;223.95
+CH3CH2CHCH;1-Butenyl;263.48;246.14
+[HClH]+;Chloronium; 881.5; 878.4
+SO;Sulfur monoxide;  5.96;     6
+I+;Iodine cation;1115.55;1115.15
+CH3C;Ethylidyne;   641; 636.4
+[CCH]+;Ethynylium;1687.65;1690.99
+[CH2NC]-;Isocyanomethanide;   254;250.96
+[HC(O)OO]-;Peroxyformate;-340.93;-346.38
+[HOOH]+;Hydrogen peroxide cation; 897.3;890.32
+CH3CCH3;1-Methylethylidene;316.08;302.18
+CH3CH2CH;Propylidene;349.52;335.83
+[CH(CHCH)]+;Cycloprop-2-enylium;1080.47;1075.38
+[HOOO]-;Trioxidanide;-120.3;-123.4
+CH2(CH2CHCH);Cyclobutene;178.11;161.06
+CH2CHCHCH;1,3-Butadienyl; 372.3;361.81
+CH2(CH2CH2CH2CH2CH2);Cyclohexane;-83.21;-122.77
+[(CH2CH2)OH]+;Protonated oxirane;725.75;709.58
+CH3OCH2;Methoxymethyl; 13.47;   0.9
+CH3OCH;Methoxymethylene;129.25;118.72
+CH3CH2OCH2CH3;Diethyl ether;-222.77;-250.19
+HOCN;Cyanic acid;-12.32;-15.03
+HCNO;Fulminic acid;170.73;169.27
+HONC;Isofulminic acid;235.25;233.55
+CNO;Nitrosomethylidyne; 389.4; 390.7
+CH3C(O)Cl;Acetyl chloride;-232.51;-241.5
+OCHCO;Dioxoethyl;-63.26;-64.67
+CH(Cl)OH;Chlorohydroxymethyl; -54.7; -60.7
+CH2CCl2;1,1-Dichloroethene;  9.32;  3.33
+CI4;Tetraiodomethane; 323.7; 318.6
+CF2Cl2;Dichlorodifluoromethane;-488.87;-493.06
+CHFCl2;Fluorodichloromethane;-277.62;-283.07
+CF2;Difluoromethylene;-193.89;-193.41
+CHFO;Formyl fluoride;-378.63;-382.22
+CH2CC(CHCHCHCH);Fulvenallene; 368.7; 354.4
+CH(CHCHCHCHCHCH);Tropyl;296.87;279.44
+CH3C6H4CO;o-Toluoyl; 110.4;  91.9
+[OSO]-;Sulfur dioxide anion;-401.27;-403.53
+CH3C(OH)CH;2-Hydroxyprop-1-en-1-yl;101.65; 89.42
+CH3CH2CH2ONO;Propyl nitrite; -94.5;-119.4
+CH2CCHO;1-Formylethenyl;177.62;172.09
+CHCHCN;2-Cyanovinyl;447.86;445.37
+[CH2CCCH]+;1,2,3-Butatrien-1-ylium;1271.9;1270.1
+HCCCHCH;1-Buten-3-yn-1-yl; 547.4;544.73
+CH2CHCC;3-Buten-1-ynyl;628.65;626.45
+CH3SiH3;Methylsilane; -9.82;-25.99
+SiH3F;Fluorosilane;-346.2;-355.6
+SiH3Cl;Chlorosilane;-126.5;-135.5
+Si(CH3)4;Tetramethylsilane;-185.8;-216.2
+SiH2OH;Hydroxysilyl;-104.1;  -112
+(CH3)3SiOH;Trimethylsilanol;-465.2;-491.5
+CH2CH2NH2;2-Aminoethyl;174.49;158.03
+CH3CH(CH3)NH2;2-Propanamine;-56.63;-83.43
+Br+;Bromanylium;1257.79;1251.72
+[H2OOH]+;Hydroperoxonium; 738.2; 727.9
+[N2]+;Dinitrogen cation;1503.31;1503.31
+ClOCl;Chloro hypochlorite; 79.79; 77.98
+[CO2]+;Carbon dioxide cation;936.089;936.924
+Xe+;Xenon cation;1170.35;1170.35
+ON(O)O;Nitroxyl; 79.38; 74.12
+NH2NH;Hydrazino;234.79;224.27
+HN(O)O;Nitryl hydride;-36.67;-43.64
+C-;Carbon anion;589.616;594.763
+[H2O]+;Oxoniumyl ion;978.496;975.592
+ClOOCl;Chlorooxy hypochlorite;134.58;131.34
+[HNC]+;Hydrogen isocyanide cation;1351.53;1351.49
+[CH2CN]-;Cyanomethanide;113.69;110.87
+[CH3OH2]+;Methyloxonium; 589.2;   575
+FCl(F)(F)(F)F;Chlorine pentafluoride;  -226;-234.1
+[CH3CH2CH2]-;n-Propylide; 123.1; 105.5
+[CH2CHCH2]-;Allyl anion;134.02;123.01
+[HCCCH]-;Propargylenide; 434.5;   437
+[CH3CCCH2]-;2-Butyn-1-yl anion; 253.8; 244.9
+CH2(CHCHCHCHCHCH);Cycloheptatriene;207.82; 184.4
+CH3(CH2)6CH3;n-Octane;-161.04;-207.88
+CH2OOH;Hydroperoxymethyl; 73.26; 65.96
+CH2(CHO);Oxiranyl;172.78; 164.5
+HCC(O)H;Oxoethylidene; 261.1; 257.6
+CH2CHOCH3;Methoxyethene; -89.3;-107.1
+CH3CH(OH)CH3;2-Propanol;-248.6;-272.7
+CH2C(O)OH;Carboxymethyl;-226.5;-236.4
+CH3CNH;1-Iminoethyl; 233.1;   223
+CH2CNH2;1-Aminoethenyl;294.71;286.08
+HOOCl;Peroxyhypochlorous acid;  3.97;  -1.3
+[Cl2]-;Dichloride;-231.91;-230.84
+NCHN;Nitrilomethylimidogen; 581.6; 578.4
+[CCCN]-;Cyanoacetylide; 300.4; 305.7
+CCl;Chloromethylidyne;430.64;434.39
+CH2(Cl)OH;Chloromethanol;-232.3;-242.6
+CH2(Cl)O;Chloromethoxy; -11.9; -18.7
+CCl3F;Fluorotrichloromethane;-283.23;-286.38
+CHClO;Formyl chloride;-179.87;-183.07
+ClCH2CH2OH;2-Chloroethanol;-249.78;-266.49
+CCCCH;Butadiynyl; 801.9; 808.5
+C6H4;o-Benzyne;468.25;459.33
+C6H5I;Iodobenzene;178.62;162.64
+O(CHCHCHCH);Furan;-21.38;-34.51
+CH3C(OH)CH3;1-Hydroxy-1-methylethyl;-78.21;-96.46
+CF2CHF;Trifluoroethene;-493.5;-498.5
+CH2CHNC;Isocyanoethene;285.32;278.82
+CH3CNC;1-Isocyanoethylidene; 527.9; 523.2
+CH2C(CHC);3-Methylene-1-cyclopropen-1-yl; 628.3; 625.7
+SiO;Oxosilylene;-98.37;-97.21
+[SiH3O]-;Silyloxy anion;-311.8;-321.1
+CH(CH2CH2CH2);Cyclobutyl;246.59;227.69
+CHCCHCCH;1-Ethynyl-2-propyn-1-yl;577.09;575.47
+CH3CH2CH2NH2;1-Propanamine; -42.2;-69.94
+OS(OH)O;Sulfo;-366.9;-374.7
+ONONO;Dioxodiazoxane;    93;  87.9
+NNH2;Isodiazene;307.57;300.49
+[HNO]+;Oxoammoniumyl;1092.46;1089.54
+HOON(O)O;Peroxynitric acid;-41.46;-51.77
+NF2NF2;Tetrafluorohydrazine; -13.4; -22.9
+C+;Carbon cation;1797.85;1803.44
+[CH3NH]-;Methylamidogen anion; 145.4;134.57
+CH3N;Methylimidogen;   323; 315.3
+[HCNH]+;Iminomethylium; 953.4; 949.3
+[HOC(O)O]-;Hydrogen carbonate;-719.2;-725.6
+[CH(CH2CH2)]-;Cyclopropylide; 265.4; 252.6
+CH3CH2C;Propylidyne; 492.7;   483
+C(CH2CH2);Cyclopropylidene;475.06;467.04
+[CH2CCH]+;Propargylium;1193.58;1190.77
+CH2(CHC);Cycloprop-1-enyl;527.52;523.13
+C(CHCH);Cyclopropenylidene;497.09;496.13
+[CCCH]+;2-Propyn-1-ylium-1-ylidene;1598.49;1602.87
+CH3CH2CHCH3;sec-Butyl; 91.35; 66.59
+(CH3)2CHCH2;iso-Butyl; 97.34; 73.35
+CH2CHCCH2;1-Methylene-2-propenyl; 327.2; 317.2
+OO(H)O;2-Hydrotrioxy; 299.4; 293.7
+CH3(CH2)5CH3;n-Heptane;-145.39;-187.26
+[CH3CO]-;Oxoethanide;   -44; -49.5
+CH2CH2OOH;2-Hydroperoxyethyl;  64.8;  50.4
+CH3OCO;Methoxyoxomethyl;-152.8;-160.9
+(H2O)2;Water dimer;-491.026;-499.066
+[HOCO]-;Hydroxyformyl anion;-319.53;-322.11
+HC(O)OCH2CH3;Ethyl formate;  -375;-393.7
+CH3CH2C(O)OH;Propionic acid;-435.77;-453.67
+[HFH]+;Fluoronium;774.04; 771.1
+CH3NCH;(Methylimino)methyl;   278; 267.9
+N(CH2CH2);1-Aziridinyl;   314; 301.8
+(CH3)2NCH2;(Dimethylamino)methyl; 166.5; 143.4
+[HCNN]-;Diazomethanide; 305.2; 302.1
+[CH3CH2NH]-;Ethylamidogen anion;106.55;  88.9
+[CH2Cl]-;Chloromethide;  56.3;  53.1
+CCl3CCl3;Hexachloroethane;-144.1;-146.5
+CHClCHCl;cis-1,2-Dichloroethene;  3.83; -2.16
+ClCCCl;Dichloroacetylene;232.85;236.16
+CHI3;Iodoform; 217.3; 209.3
+CH3CHF2;1,1-Difluoroethane;  -489;-502.72
+CH2CHI;Vinyl iodide;139.64; 130.8
+HCCBr;Bromoacetylene; 287.5;   281
+FCH2CH2OH;2-Fluoroethanol;-405.62;-422.87
+HCCCCCCH;1,3,5-Hexatriyne; 682.2;   687
+[C6H5CH2]-;Benzylide;142.01; 123.1
+C6H5CH;Benzylidene; 489.6; 474.5
+(CHCH)(CHCH2CH)(CHCH);Norbornadiene;   265; 239.6
+C6H5CN;Benzonitrile;   230; 215.8
+OCl(O)O;Perchloryl;191.77; 186.1
+[CH3C(O)CH2]-;Acetonate;-187.5;-201.06
+[F2]-;Difluoride;-290.6;-289.8
+HOCl(O)O;Chloric acid;   0.6;  -6.5
+[NH2CH2C(O)O]-;Glycinate;-477.6;-493.3
+[NH3CH2C(O)OH]+;Carboxymethanaminium;   270; 246.7
+[OCl(O)O]-;Chlorate;-208.2;-213.7
+CHICHI;cis-1,2-Diiodoethene;217.57;209.28
+CH2CHCO;Acryloyl; 102.8; 97.21
+HCCCO;3-Oxo-1,2-propadien-1-yl;290.36;292.87
+CH3CCN;1-Cyanoethylidene; 475.7; 470.6
+CHCHCNH;3-Imino-2-propen-1-ylidene; 530.7; 525.9
+CHCHNCH;2-(Methylidyneamino)ethenyl; 600.7; 595.7
+[CH2CCN]-;1-Cyanovinyl anion; 224.3; 221.5
+[CH2CCCH]-;1,2,3-Butatrien-1-yl anion; 388.5; 386.7
+SiF2;Difluorosilylene;-629.1;  -630
+HSi(HSiHH);Di-mu-hydrodihydrodisilicon; 374.8; 364.4
+(CH3)3SiO;Trimethylsiloxy;-188.1;-211.1
+HCCCH2CH2CCH;1,5-Hexadiyne; 431.7; 421.2
+CH3C(CH2)CH2;2-Methylallyl;155.97;138.85
+CH2CHCH2CH2;3-Butenyl;223.26;206.76
+CH3C(CH3)CH;2-Methyl-1-propenyl;251.26;234.24
+CH3CH2NHCH3;N-Methylethanamine; -17.4; -45.6
+C6H4(C2H2(CC(C4H4)));Phenanthrene;232.01; 203.2
+SSO;Disulfene oxide;-50.61;-52.63
+OHS(O)(O)O;Sulfur hydroxide oxide;-474.5;-483.9
+CH3CH2SH;Ethanethiol;-28.74;-45.57
+O2NNO2;Dinitrogen tetraoxide; 20.16; 10.87
+[NH3]+;Azanylium;944.274;937.319
+NF2;Difluoroamidogen; 36.24; 33.66
+NF;Fluoroimidogen;232.64;232.63
+IBr;Iodine monobromide;49.727; 40.78
+[CH]+;Methyliumylidene;1619.75;1623.09
+[CCH2]-;Vinylidene anion;364.28;364.09
+HOOO;Trioxidanyl; 25.36; 23.38
+[CH3OH]+;Methanol cation;856.89;846.57
+H2OC;Aquacarbon; 442.7; 441.1
+FOOOF;Trioxygen difluoride; 112.5; 106.7
+HOOCO;Hydroperoxycarbonyl;-73.24; -77.1
+C(O)(OCH2CH2O);1,3-Dioxolan-2-one;-492.6;-510.24
+CH3C(O)C(O)OH;Pyruvic acid;-520.53;-534.87
+C(O)(OCH3)2;Dimethyl carbonate;-550.03;-570.58
+[CH2CHCH2]+;Allylium;964.48;952.92
+CH3CC;1-Propynyl;528.57; 526.4
+[CH3CC]-;1-Propynylide;264.62;261.04
+CHCHCH;1-Propen-1-yl-3-ylidene; 656.8; 653.3
+[OH]+;Oxidanylium;1293.36;1293.39
+[(CH3)3C]-;t-Butyl anion;  76.9;  52.1
+CH3CH(CH2CH2);Methylcyclopropane;  47.5;  24.2
+CH2CHCH(CHCHCHCH);5-Ethenyl-1,3-cyclopentadiene; 237.2; 215.4
+CHCHOH;2-Hydroxyethenyl;138.01;131.27
+CH2(CO);Oxiranylidene; 213.5; 209.3
+[CH3CHOOH]+;1-Hydroperoxyethylium; 690.7;   675
+CH2CHOO;Ethenyldioxy;118.42;108.92
+CH2CHOCH2CH3;Ethoxyethene;-117.7;-141.5
+CH2C(OH)2;1,1-Ethenediol;-307.51;-320.46
+HOCHCHOH;1,2-Ethenediol;-272.64;-284.97
+CH2C(OH)OCH3;1-Methoxyethenol;-284.2;-303.6
+CH3C(CH3)OO;Hydroxy(1-methylethylidene)oxonium;  3.52;-15.46
+HC(O)OCH2;(Formyloxy)methyl;-151.3;-159.4
+(CH2OH)2;Ethylene glycol;-369.65;-389.27
+(C(O)OH)2;Oxalic acid;  -721;-731.6
+[CH3NHCH2]+;(Methylamino)methyl cation;729.63;711.01
+[CH2NCH2]-;(Methyleneamino)methyl anion;   187; 176.6
+CHCHNH2;2-Aminoethenyl; 319.8; 309.6
+BrCl;Bromochlorane;21.891;14.447
+CCl3Br;Bromotrichloromethane;-29.81;-38.95
+CHCl2;Dichloromethyl; 92.91; 90.99
+CH2Cl;Chloromethyl;118.47; 115.4
+CH3OCl;Methyl hypochlorite;   -53;   -63
+CH2ClCH2Cl;1,2-Dichloroethane;-118.49;-130.44
+CH2FCl;Chlorofluoromethane;-256.43;-263.63
+[CF2]+;Difluoromethyliumyl;908.35;908.78
+[CF]+;Fluoromethyliumylidene;1123.49;1126.7
+FCCF;1,2-Difluoroacetylene;  2.85;  5.67
+HCCI;Iodoacetylene;   324; 323.8
+ClCO;Chloroformyl;-21.92;-20.53
+[C6H4]-;o-Benzyne anion;413.87;404.76
+HOOOOH;Tetroxidane;-33.32;-43.99
+N(OO);Dioxaziridinyl; 355.1; 352.6
+CH2(CHCHCH2CH2CH2CH2);Cycloheptene; 28.58; -8.65
+C6H5OCH3;Anisole;-45.97;-70.81
+[C6H5CO]+;Benzoylium; 764.1;   750
+C6H5C(O)F;Benzoyl fluoride;-287.9;-304.3
+[C6H5F]+;Fluorobenzene cation;791.94;776.92
+C6H5NO;Nitrosobenzene;   217;   200
+CH3CH(O)CH3;1-Methylethoxy;-25.05;-43.81
+CH2N(O)O;Nitromethyl; 139.8; 130.4
+CH3CH2N(O)O;Nitroethane;-83.42;-102.75
+HOOOCl;Hypochloroperoxoous acid, hydroxy ester;  48.4;  41.5
+CHBrCHBr;cis-1,2-Dibromoethene; 124.7; 104.1
+CH3CH2C(O)CH3;2-Butanone;-216.83;-238.28
+CH2NOH;Formaldoxime;  30.6;    20
+C(CHCHCH);1,3-Cyclobutadien-1-yl; 653.9; 649.4
+CH3CH(CHCHCHCH);5-Methyl-1,3-cyclopentadiene; 134.1; 111.1
+SiF3;Trifluorosilyl;  -993;  -996
+SiH3SiH;Silylsilylene; 317.3; 309.5
+SiF(CH3)3;Fluorotrimethylsilane;-547.1;-570.7
+SiCl(CH3)3;Chlorotrimethylsilane;-326.3;-349.4
+[(CH3)3SiO]-;Trimethylsiloxide;-486.6;-510.4
+HCCCH2CCCH3;1,4-Hexadiyne; 424.8; 414.8
+CH2CCHCHCCH2;Biallenyl; 410.7;   399
+CH2CCCCHCH3;1,2,3,4-Hexatetraene; 429.9; 420.1
+CH2CCCCH2;Pentatetraene;452.62;448.62
+CH3CHNH2;1-Aminoethyl;133.37;116.59
+CH3CH2NH;Ethylamidogen;166.75;150.62
+[C6H4(CHCCHCH)]-;2-Naphthyl anion; 288.8; 269.4
+[C6H4(CCHCHCH)]-;1-Naphthyl anion; 283.6; 264.2
+NH2NO;Nitrosamine; 85.83; 76.95
+[OS(O)O]-;Sulfur trioxide anion;  -603;-608.6
+NNH;Diazenyl;252.16;249.24
+ClNO;Nitrosyl chloride;54.457;52.555
+[C2]-;Carbide;504.39;510.97
+C(CC)C;Bicyclo[1.1.0]buta-1,3-diene-2,4-diyl;1047.14;1054.73
+[CH4]+;Methane cation;1150.69;1144.31
+[(HF)(F)]-;Bifluoride;-481.8;-480.6
+[HCCH]+;Acetylene cation;1328.91;1328.24
+FClF;Chlorine difluoride;   -47; -48.2
+[CH3C]+;1-Ethylium-1-ylidene;1329.8;1328.3
+[CH3C]-;Ethylidyne anion; 457.2; 453.1
+O2NONO2;Dinitrogen pentoxide; 24.31; 14.74
+[(H)(OH)]-;Water anion;  31.3;  29.8
+CH2NC;Isocyanomethyl; 363.3; 360.8
+[CH3O]+;Methyloxoniumylidene;1062.72;1054.91
+[CH2OH]-;Hydroxymethanide;    10;   3.4
+[HCOH]+;Hydroxymethylene cation; 971.9; 968.2
+COH;Isoformyl;217.25;217.64
+HOC(O)O;Hydroxyoxomethoxy;-360.34;-366.41
+OC(OO);3-Dioxiranone;-159.9;-162.7
+[OC(O)O]-;Carbonylbis(oxy) anion;-550.4;-552.4
+C(O)(OH)OCH3;Methyl hydrocarbonate;-576.99;-592.55
+O(OCH2CH2O);1,2,3-Trioxolane;  -5.6; -23.3
+CH(CC);Cyclopropynyl;711.28; 715.4
+[CH3CH2CH2CH2]-;n-Butyl anion; 106.2;  81.3
+[CH3CH2CHCH3]-;sec-Butyl anion; 103.4;  78.9
+[CH3CHCCH]-;1,2-Butadienyl anion; 255.7; 246.2
+(CH3)3CCH2;Neopentyl;    70;  40.3
+[HOOO]+;Trioxidanylium;1070.7;1064.4
+CH3(CH2)7CH3;n-Nonane;-176.26;-228.04
+[CH2CHOH]+;Vinyl alcohol cation; 778.7; 767.4
+CH2COH;1-Hydroxyethenyl;121.32;114.94
+[CH2(CHO)]+;Oxiranylium; 901.3; 893.3
+COC;C=O=C;   653; 657.3
+[CH(OH)2]-;Dihydroxymethanide;-194.2;-203.2
+CH3CHOOH;1-Hydroperoxyethyl;  39.7;  26.1
+[HC(O)OH]+;Formic acid cation;   722;714.91
+CH3CH(OO);Methyldioxirane;-40.45;-54.37
+CH3C(OH)CHOH;1-Propene-1,2-diol;-311.3;-329.7
+CH2C(CH3)OOH;1-Methylethenyl hydroperoxide; -63.4;   -82
+[(CH3)2N]-;Dimethylamide; 123.1; 104.7
+CH3CHN;Ethylideneamidogen; 209.8; 199.3
+CH2NCH2;(Methyleneamino)methyl; 244.3; 233.6
+[NNN]-;Azide;193.63;190.12
+BrOBr;Bromo hypobromite; 121.1; 104.6
+NH(CHCH2);2-Aziridinyl;   361; 348.8
+[HC(NN)]-;Diazirenide; 454.9; 452.2
+HN(NC);1H-Diazirin-3-yl; 618.7; 615.8
+N(NN);1H-Triazirin-1-yl;   586; 584.2
+CH(NHN);1H-Diazirene; 405.1; 398.1
+[HOO]+;Dioxidenium;1110.87;1107.98
+CH2ClCHCl2;1,1,2-Trichloroethane;-135.6;-147.3
+CH2ClCCl3;1,1,1,2-Tetrachloroethane;-144.4;-152.9
+CCl3CCl2;Pentachloroethyl;  28.9;  27.1
+CH3CH2I;Ethyl iodide;  -9.4;-39.27
+CHFCHF;cis-1,2-Difluoroethene;-302.96;-309.72
+CCF;Fluoroethynyl; 445.3; 449.9
+FCOF;Fluoro(fluorooxy)methylene;-134.8;  -136
+CBr2O;Dibromophosgene;-97.93;-113.86
+CCCCCCH;1,3,5-Hexatriynyl;1003.2;1010.6
+HCl(O)O;Chloryl hydride; 197.7; 191.2
+CH2(CH2CH2CH2CH2CH2CH2);Cycloheptane;-72.39;-117.89
+(F)(HF);Hydrogen difluoride;-198.5;-198.4
+CH3CH2CO;1-Oxopropyl;-17.32;-29.81
+CH3CCOH;Propyn-1-ol;  65.7;  57.4
+CCCHO;Formylethynyl; 468.5; 470.4
+OC(CHCH);2-Cyclopropen-1-one;   164; 160.1
+NHCHOH;Formamide enol;-130.6;-141.8
+CCHCN;Cyanovinylidene; 581.8; 584.3
+CCHNC;Isocyanovinylidene; 697.1; 700.4
+HCNC;Isocyanomethylene; 583.1; 584.4
+CH3C(CHC);2-Methyl-2-cyclopropen-1-ylidene; 448.1; 441.9
+[HCCCHCH]-;But-1-en-3-yn-1-ide; 419.9; 418.7
+[CH2CHCC]-;But-3-en-1-yn-1-ide; 326.8; 323.7
+CH2(CHCHCH);Cyclobutenyl; 337.3; 324.8
+HCCCH2Cl;Propargyl chloride; 186.7; 180.8
+SiO2;Dioxosilane;-277.9;-279.3
+CH3SiH2CH3;Dimethylsilane; -66.7; -88.2
+Si(CH3)3;Trimethylsilyl;  47.5;  25.5
+((CHCH)(CH(CHCH)CH));Benzvalene; 404.5; 386.7
+HCCCCCH;1-Ethynyl-2-propyn-1-ylidene; 727.1; 734.1
+HCCCHCCH2;1,2-Pentadien-4-yne;442.32;436.69
+HCCCCCH2;2,4-Pentadiynyl;568.83;568.08
+[HBrH]+;Bromonium; 924.4; 913.6
+C6H4(CHCCHCH);2-Naphthalenyl; 416.9; 397.3
+C6H4(CCHCHCH);1-Naphthalenyl; 418.2; 398.6
+C6H5NH2;Aniline;108.83; 86.82
+SOO;Thiodioxy; 199.2; 197.1
+HSOH;Sulfenic acid;  -108;-114.2
+OS(OO)O;3,3-Dioxidedioxathiirane;-257.1;-265.2
+[OS(O)(O)O]-2;Sulfate;-599.7;-608.4
+[NF2]+;Difluoroaminylium;1157.82;1154.93
+FNNF;(Z)-Difluorodiazene;  78.5;  72.9
+C(OO);Dioxiranylidene; 190.3; 191.1
+[FFH]-;Bifluoride;   -68; -67.6
+CHNH2;Aminomethylene; 245.9; 238.1
+ClOClO;Chlorine chlorite; 168.6; 166.2
+[CH2N]-;Methyleneamidogen anion;192.85;189.09
+CNH2;Aminomethylidyne; 371.9; 368.4
+[FO]+;Oxofluoronium;1342.66;1342.61
+[HNNH]+;(E)-Diazene cation;1132.53;1125.59
+HCCNH;Ethynylamidogen;395.32;393.29
+CH2OH2;Methyleneoxonium;152.51;144.19
+[HCOH]-;Hydroxymethylene anion; 147.2; 144.1
+[COH]+;Hydroxymethyliumylidene;986.01;987.65
+[(CO)(H)]-;Isoformyl anion;  55.7;  58.4
+[(HOH)O]+;Oxygen cation monohydrate;1153.4;1147.9
+CH2CH2CH2;1,3-Propanediyl; 319.3; 307.1
+[FFH]+;Hydrogen difluoride cation;1174.3;1171.3
+CH2CH2CH;Propan-1-yl-3-ylidene; 554.5; 545.8
+CH3CHC;1-Propenylidene; 392.5; 388.1
+[FClF]+;Chlorine difluoride cation; 998.9; 996.7
+CH(CHCH);Cycloprop-2-enyl;490.35; 485.8
+CH2CHC;2-Propen-1-yl-3-ylidene;556.68;554.42
+[CCCH]-;2-Propynylidyne anion; 540.8;545.57
+D;Deuterium atom;219.804;221.717
+[(CH3)3C]+;t-Butylium;733.97;710.69
+[CH3CHCCH]+;1,2-Butadienylium;1099.2;1089.9
+(CH3)2CCH2OH;2-Hydroxy-1,1-dimethylethyl; -71.6; -96.5
+CH2CHC(CHCHCHCH);Vinylcyclopentadienyl; 314.9; 296.9
+CH3CH2C(CH3)3;2,2-Dimethylbutane;-145.27;-185.7
+CH3(CH2)8CH3;n-Decane;-192.28;-249.03
+[NOH]+;Hydroxyaminiumyl;1161.1;1158.2
+[CH2CHO]+;Vinoxy cation;1020.2;1013.2
+[CH2CHO]-;Vinoxide;-153.08;-160.14
+[CH2COH]+;1-Hydroxyethenylium; 841.7; 834.9
+[CH2(CHO)]-;Oxiranyl anion; 121.2; 113.2
+(CO)(C);COC vdW; 589.7; 598.5
+(H2O)O;Oxywater;  64.9;  58.4
+[HNOH]+;Hydroxyaminylium;1019.5;1012.3
+[CH2(OH)O]-;Hydroxymethoxy anion;-373.82;-383.76
+[CH3CH2OO]+;Ethoxyoxoniumylidene; 923.9; 911.6
+[CH3CH2OO]-;Ethaneperoxolate;-120.32;-136.93
+[I3]-;Triiodide;   nan;-51.53
+HClO;Chlorosyl hydride; 141.9;   139
+[HC(O)O]+;Formyloxoniumylidene;1017.4;  1014
+HCOO;Dioxymethylene;   364; 361.7
+[ClOH2]+;Aquachlorine cation; 821.9; 815.1
+[NCO]-;Cyanate;-221.16;-221.38
+C(NO);Oxazirinyl; 450.1; 450.9
+CH2C(OH)CH2OH;2-Propene-1,2-diol;-295.3;-314.8
+CH2C(O)OCH3;2-Methoxy-2-oxoethyl;-202.9;-218.1
+CH3C(O)OCH2;(Acetyloxy)methyl;-200.1;-213.8
+[OO(H)O]+;2-Hydrotrioxy cation;1298.4;1291.8
+[(CH3)2NCH2]+;Dimethylmethyleneammonium; 697.1; 672.1
+[HNNC]-;2-Methanidylidynehydrazin-2-ium-1-ide; 281.9; 279.1
+NH2NC;Isocyanamide; 328.5; 322.6
+HNOO;Dioxyamidogen; 240.4; 233.8
+[CCl3]-;Trichloromethide;-123.2;-122.6
+[OO(H)O]-;2-Hydrotrioxy anion;  27.4;  21.6
+CHCl2CHCl2;1,1,2,2-Tetrachloroethane;-146.7;-156.1
+CHCl2CCl3;Pentachloroethane;   nan;-201.9
+CHClCCl2;Trichloroethene;   nan; -48.7
+CHCl2Br;Bromodichloromethane; -34.8; -46.5
+CH2I2;Diiodomethane;122.96;113.52
+CF2Br2;Difluorodibromomethane;-359.8;-377.8
+CCl2Br2;Dichlorodibromomethane;  28.3;  12.4
+CHF2Br;Difluorobromomethane;-411.4;-424.59
+CH2FCH2F;1,2-Difluoroethane;-434.39;-447.81
+[CH2(CHCHCHCHCH)]+;Benzenium; 887.8; 867.7
+[C6H5CH2]+;Benzylium;929.58;910.09
+C(CHCHCHCHCHCH);Cycloheptatetraene; 418.8; 403.1
+(CHCH)(CHCHCH)(CHCH);2,5-Norbornadien-7-yl; 480.2; 459.2
+CH(CHC(CHCHCH)CCH);Pentalene; 389.9; 373.6
+[HFH]-;Dihydrogen fluoride anion; 133.2; 131.9
+C6H4(CHCHCH);Indenyl; 299.2; 279.2
+C6H5C(O)Cl;Benzoyl chloride;   nan;-157.1
+C6F6;Hexafluorobenzene;-942.55;-947.55
+[C6H5Cl]+;Chlorobenzene cation;942.61;928.68
+C6H4Cl;m-Chlorophenyl; 321.8;   311
+[C6H5Br]+;Bromobenzene cation; 995.1; 973.6
+C6H5N(O)O;Nitrobenzene;  82.5;  62.5
+[CH2C(CHCH)]+;3-Methylenecyclopropene cation;1181.8;1174.7
+[CH3C(OH)CH3]+;1-Hydroxy-1-methylethyl cation; 521.4;   501
+CH3CH2CHOH;1-Hydroxypropyl; -55.3;   -73
+CH2CBr2;1,1-Dibromoethene; 130.6; 110.2
+CHBrCBr2;Tribromoethene; 169.7;   145
+CH2CI2;1,1-Diiodoethene; 225.1;   217
+CHICI2;Triiodoethene;   302; 295.5
+CH2C(OH)CHCH2;1,3-Butadien-2-ol; -53.3; -70.3
+OC(CH2CH2);Cyclopropanone; 30.65; 19.22
+[CHCHCHO]-;2-Formylethen-1-ide;  27.4;  20.6
+OCCO;Ethenedione;  14.5;    17
+[OClOO]-;Peroxychlorite; -34.5; -33.1
+CH(O)NH;Formylamidogen;  76.5;  71.1
+CH2NHO;Formaldonitrone;  78.4;  67.2
+(CHCH)CNH;2-Cyclopropen-1-imine;   402; 394.2
+CH2CNC;1-Isocyanovinyl; 519.1; 517.3
+HOOClO;Peroxychlorous acid;  95.4;  89.4
+CH2CHCHC;Vinylvinylidene; 494.2; 488.8
+[C(CH(CHCH))]-;Tetrahedryl anion; 634.5; 630.7
+SiC;Silicon carbide; 739.3; 744.3
+[SiF3]+;Trifluorosilylium;-111.6;-114.4
+[SiH3]-;Silanide;  69.3;  63.7
+[ClF]+;Chlorine fluoride cation;1165.52;1165.7
+CH3Si(O)CH3;Dimethylsilanone;-237.4;-252.9
+CH3CH2SiH3;Ethylsilane; -12.8; -35.3
+HOCl(O)(O)O;Perchloric acid;  11.7;   0.2
+[SiH2OH]-;Hydroxysilyl anion;-219.2;-227.2
+((CHCH)((CHCH)(CHCH)));Triprismane;   576; 556.7
+CH2CCHCH2CCH;Propargylallene; 431.5; 419.9
+HCCCH2CCH;1,4-Pentadiyne; 460.3; 454.7
+ONN(OO);Nitrosodioxaziridine; 413.6; 407.6
+C6H5C6H5;Biphenyl;   207; 178.8
+[CCCCH]-;Diacetylide;460.98;466.02
+[HOOOH]+;Trioxidaniumyl; 925.5; 916.3
+H2SO;Sulfinyl hydride; -40.7; -47.6
+[(HOH)O]-;Oxygen anion monohydrate;-238.9;-244.2
+[OS(OH)O]+;Bisulfite cation;   554; 545.3
+OS(O)(O)O;Sulfur tetraoxide;-228.2;-235.1
+[FClH]+;Fluorohydrochlorine cation; 975.3; 972.3
+CH2S;Thioformaldehyde; 121.3; 117.6
+CH3S(O)CH3;Dimethylsulfoxide;-131.91;-150.55
+SCS;Carbon disulfide; 115.9;116.69
+[HCNH]-;Iminomethide; 237.4; 233.5
+[I2]-;Diiodide;-178.13;-180.72
+[CF3]-;Trifluoromethide;-637.7;-639.6
+[ICN]-;Cyanogen iodide anion;  86.5;  88.9
+[H2]+;Dihydrogen cation;1488.36;1488.48
+[CH2O]+;Formaldehyde cation;944.862;941.241
+[COH]-;Isoformyl anion; 267.4;   268
+[NH2]+;Azanylium;1266.56;1264.49
+[NNH]-;Diazenide; 175.7; 176.7
+[CH2CCH2]+;Allene cation;1132.29;1125.14
+CHCHCH2;2-Propenylidene; 417.6;   410
+[CH2(CHC)]-;Cycloprop-1-enylide; 373.7; 369.3
+[C(CHCH)]+;2-Cyclopropen-1-ylium-1-yl;1381.9;1380.8
+[ClO]+;Oxochloronium;1150.86;1150.7
+CHCHC;Propenediylidene; 796.3; 797.5
+[CH3CH2CH2CH2]+;n-Butylium; 827.7; 803.4
+(NH4)F;Ammonium fluoride;-452.48;-467.05
+[CH3CCCH2]+;2-Butynylium;1085.9;1077.7
+[CH2CHCCH2]-;1-Methylene-2-propenyl anion; 256.5; 246.6
+[CH2CHCHCH]-;1,3-Butadienyl anion; 265.4; 255.1
+[CH3CH2OH]+;Ethyloxoniumyl; 783.4; 766.4
+[CH2CH2OH]+;2-Hydroxyethylium;1019.3;1006.5
+[CH3CH2O]+;Ethyloxoniumylidene; 988.8; 975.1
+[CH3CHO]+;Acetaldehyde cation;832.13;822.15
+COO;Dioxymethylidyne; 299.8; 301.1
+[HCCO]-;Ketenyl anion;-48.43; -47.5
+[CCO]-;Dicarbon monoxide anion;154.18;157.82
+[COC]+;C=O-C cation;1585.8;1592.9
+[COC]-;C=O=C anion; 550.3; 554.1
+[O(CHCH)]+;Oxirene cation;1106.2;1102.5
+CCHOH;Hydroxyethenylidene; 418.2; 414.8
+(NH4)NO3;Ammonium nitrate;-350.18;-365.14
+[HC(O)OH]-;Formic acid anion;-256.1;-262.3
+[HNCO]+;Isocyanic acid cation;1003.01;1000.35
+[HCNO]+;Fulminic acid cation;1215.7;1212.9
+FFO;Fluorosyl fluoride; 192.8; 193.3
+NOH;Hydroxyimidogen;217.89;215.01
+C(CC);2-Cyclopropyn-1-ylidene; 898.4; 905.3
+CH3C(CH3)(OO);Dimethyldioxirane; -88.2;  -108
+CH3C(O)O;Acetoxy;-182.02;-190.84
+[HOHOH]-;Trihydrogen dioxide anion;-487.4;-495.7
+[C(CC)]+;2-Cyclopropyn-1-ylium-1-yl;1939.2;1947.1
+HOCCO;Hydroxyoxoethenyl;  24.5;  22.7
+CNC;Isocyanomethylidyne; 672.2; 676.5
+CCN;Cyanomethylidyne; 684.7; 689.1
+[HNCN]+;Cyanoaminylium;1363.2;1360.9
+[HCNN]+;Diazomethylium;1395.8;1394.1
+[HNNC]+;2-Methyliumylidynehydrazin-2-ium-1-ide;1544.2;1542.5
+HNCNH;Methanediimine; 153.2; 146.5
+[CCl2]-;Dichloromethylene anion; 75.98; 78.26
+[CHCl2]+;Dichloromethylium; 895.4; 892.2
+[CHCl2]-;Dichloromethide; -40.7; -42.4
+CCCC;1,3-Butadiyne-1,4-diyl;1052.24;1062.21
+[CH2Cl]+;Chloromethylium; 962.4; 958.5
+[HON(O)O]-;Hydroxydioxonitrate;-193.2;-197.5
+[(HF)(H)]+;Fluoronium;1490.1;1491.4
+CHClBr2;Chlorodibromomethane;    22;   3.2
+NNNN;Azidonitrene; 692.1; 687.5
+CH2ClBr;Bromochloromethane; -28.2; -42.3
+[(F)(HH)]-;Dihydrogen fluoride anion;  -257;-260.1
+BrCCBr;1,2-Dibromoacetylene; 346.5; 335.6
+[FCO]+;Fluorooxomethylium; 724.9; 724.6
+COF;Fluoroisoformyl; -37.8; -32.4
+[ONO]+;Nitronium;961.79;958.23
+[C6H6]+;Benzene cation;992.59;976.12
+[ClFH]+;Chlorohydrofluorine cation;1000.8; 998.1
+ClClO;Chlorosyl chloride; 134.5; 133.2
+CH2(CCHCHCHCHC);Benzocyclopropene;   396; 379.6
+C6H4CH3;3-Methylphenyl; 324.5; 306.4
+NOO;Peroxyimidogen; 405.4; 403.4
+[C6H4(CHCHCH)]+;Indenylium;1030.2;1010.7
+C6H5C(O)OH;Benzoic acid;-367.32;-384.74
+CH3C6H3(CH3)C(O)H;2,3-Dimethylbenzaldehyde; -65.7; -93.7
+CH3C6H3(CH3)CO;(2,3-dimethylphenyl)oxomethyl;  83.3;  60.5
+[C6H4Cl]-;m-Chlorophenide; 172.5; 162.3
+[CH2CH2]+;Ethylene cation;1075.23;1068.01
+[CH3C(O)CH2]+;2-Oxopropylium; 784.8;   771
+O(NN);Oxadiazirene; 351.7; 349.9
+CH3C(O)C(O)CH3;2,3-Butanedione;-310.65;-327.21
+CH2BrCH2Br;1,2-Dibromoethane; -11.5; -38.3
+OClOO;Chlorine oxide peroxide; 226.8; 227.7
+CH3C(CO)CH3;Dimethylketene; -73.3; -88.2
+CH3C(CHO);2-Methyloxirene;   344;   334
+NON;NON; 545.5; 542.6
+[CHCHCHO]+;3-Oxo-1-propenylium;1185.6;1179.7
+HCNOH;(Hydroxyimino)methyl; 250.2;   244
+NH2COH;Aminohydroxymethylene; -22.4;   -33
+(CHCHCH)N;Azete; 469.6; 461.4
+ClOOO;1-Chloro ozone; 226.3; 223.1
+[(H2O)(O2)]+;Dioxygenyl ion monohydrate; 829.1;   822
+[CHCHCN]+;2-Cyanovinylium;1517.3;1515.1
+[CHCHCN]-;2-Cyanovinyl anion; 263.8; 260.8
+CHCHNC;2-Isocyanovinyl; 543.3; 541.3
+CCCO;3-Oxo-1,2-propadienylidene; 330.5; 336.4
+[CH2CHCCH]+;Vinylacetylene cation;1221.8;1215.4
+[CH2(CCH)CH]+;Bicyclo[1.1.0]but-2-ylium-1-yl;1287.1;1278.1
+[CH2C(CHC)]-;3-Methylene-1-cyclopropen-1-yl anion; 417.4; 413.6
+CHC(CHCH);2-Cyclopropen-1-ylidenemethyl; 635.8; 632.7
+OCC(CHCHCHCH);Fulvenone; 117.3; 107.1
+Si+;Silicon cation;1236.86;1240.99
+Si2;Disilicon; 587.5; 591.3
+[SiF]+;Fluorosilyliumylidene;651.11;652.24
+SiH3OSiH3;Disiloxane;-330.3;-347.3
+SiI(CH3)3;Iodotrimethylsilane;-189.7;-214.4
+[ClF]-;Fluorochlorate;-256.03;-255.43
+CH2CCCHCHCH2;1,2,3,5-Hexatetraene; 391.8;   380
+CH2CCCHCH3;1,2,3-Pentatriene; 302.7; 290.4
+C(CHCHCHCH);2,4-Cyclopentadien-1-ylidene; 526.2; 517.2
+[CH3CH2NH3]+;Ethylammonium; 593.8; 568.1
+C6H4(CH(CC(C4H4)CH));Anthracene;255.89;226.72
+[HeH]+;Helium hydride cation;1350.15;1348.26
+S-;Monosulfur anion; 76.43; 78.48
+[Br2]-;Dibromide;  -197;-211.1
+SSS;Thiozone;144.28;142.91
+[SH]-;Hydrosulfide;-80.52;-80.52
+[OHS(O)(O)O]-;Hydrogen sulfate;  -944;-954.4
+[OS(O)OO]-;Dioxoperoxysulfate;-502.6;-506.5
+CH3SCH2;(Methylthio)methyl; 149.5; 137.8
+[CH(CH2CH2)]+;Cyclopropylium;1101.57;1088.76
+[CH3CCH]+;Propyne cation;1192.69;1186.97
+[NH]+;Aminyliumyl;1659.04;1659.97
+[HCCCH]+;Propynylidene cation;1409.62;1412.18
+[CH2CC]-;Propadienylidenide; 381.2; 382.1
+[CH2CC]+;1,2-Propadien-1-ylium-1-yl;1561.6;1562.8
+[HCN]+;Hydrogen cyanide cation;1442.54;1442.07
+[HF]-;Hydrofluorate ion; -75.6; -75.1
+(H)(HF);Dihydrogen fluoride; -55.9; -54.9
+[OCl(O)(O)O]-;Perchlorate;-263.9;-272.8
+(CH2)3(CC);[1.1.1]Propellane; 378.6;   361
+[NH2OH]+;Hydroxylamine cation; 857.7; 847.9
+CH3CH2CH2CH(CH3)2;2-Methylpentane;-134.45;-173.71
+CH3CH2CH(CH3)CH2CH3;3-Methylpentane;-131.89;-171.4
+CH3CH(CH3)CH(CH3)CH3;2,3-Dimethylbutane;-136.48;-177.58
+[(H2O)O]+;Dihydrooxooxygen cation; 994.9; 988.2
+CH2CHCH2CH2CHCH2;1,5-Hexadiene;108.52; 83.93
+[CN]+;Nitrilomethylium;1783.13;1786.61
+NH3O;Nitrogen hydride oxide;  72.2;    61
+(HOO)(O2);Tetraoxidanyl;   2.1;   0.4
+[CH2COH]-;1-Hydroxyethenyl anion;  15.1;   7.8
+[NH2O]+;Aminooxy cation;945.98;938.85
+[CCO]+;Dicarbon monoxide cation;1433.9;  1439
+[HNNH]-;(E)-Diazene anion; 265.6; 258.7
+[O(CHCH)]-;Oxirene anion; 288.2; 285.2
+[C2]+;Ethynylene cation;1964.95;1971.54
+[CH2CH2OOH]+;2-Hydroperoxyethylium;  1000; 989.1
+[HNOH]-;Hydroxyamidogen anion;  90.7;  84.8
+[Cl3]+;Trichlorine cation;1056.6;1055.5
+[CH2(OO)]+;Dioxirane cation;1050.8;1043.2
+[CH2OO]+;Dioxymethyl cation;1075.1;1068.7
+[CH3CHOO]-;1-(Dioxidan-2-id-1-yl)ethyl;  27.9;  16.3
+(OH)(CO);OH-CO vdW complex; -80.5;-76.77
+(CO)(HO);CO-HO vdW complex; -77.5; -73.3
+[NCO]+;Cyanato cation;1261.52;1262.02
+[CNO]+;Nitrosomethyliumylidene;1509.8;1510.9
+[CNO]-;Fulminate;  59.5;  59.8
+OBrO;Bromine dioxide; 165.6;   156
+[HF]+;Fluoroniumyl ion;1275.56;1275.79
+HOCCOH;Ethynediol; -18.3; -22.1
+[OClO]-;Chlorite;-105.51;-107.68
+[(CH3)2N]+;Dimethylaminylium;1040.9;1025.5
+CH3CH2N;Ethylimidogen; 306.1; 291.5
+[Cl3]-;Trichloride;-328.5;-327.6
+[F3]-;Trifluoride ion;-348.6;-349.4
+CNNC;Diisocyanogen; 610.9; 613.2
+[FClF]-;Chlorine difluoride anion;-504.9;-505.8
+OFO;Dioxofluorine; 523.9; 523.2
+[CH2OH2]+;Methyleneoxonium cation; 827.8; 818.3
+[NH2CN]+;Cyanamide cation;1158.8;1152.4
+C(NHNH);3-Diaziridinylidene; 521.9;   515
+CNN;Diazomethylene; 577.9; 578.6
+[CHCl]+;Chloromethyliumyl;1207.4;1207.7
+[CHCl]-;Chloromethylene anion;203.54;204.35
+(NN)CClCH3;3-Chloro-3-methyl-3H-diazirine; 251.5; 239.6
+CBr;Bromomethylidyne; 504.2; 500.5
+CI;Iodomethylidyne; 554.8; 556.7
+OS(O)Cl2;Sulfuryl dichloride;-348.06;-354.22
+CHFClBr;Fluorochlorobromomethane;-218.3;-230.9
+[CHF]+;Fluoromethyliumyl;1116.6;1116.9
+[CHF]-;Fluoromethylene anion; 95.95; 96.48
+[CCF]-;Fluoroethynide; 133.3; 137.5
+[CHFO]+;Formyl fluoride cation; 816.6; 813.3
+[FCO]-;Formyl fluoride;-405.1;-403.7
+[COF]+;Fluoroisoformyl cation;1347.4;1349.5
+[H2OC]+;Aquacarbon cation;1196.1;  1193
+[(HF)(H)]-;Dihydrogen fluoride anion; -61.9; -60.5
+[C6H4]+;o-Benzyne cation;1392.2;1384.2
+[NNH2]+;1-Hydrazinylium-1-yl;1143.4;1136.4
+[N(OO)]+;Dioxaziridinyl cation;1365.9;1363.3
+CH2(CHCHCHCHCH2CH2);1,3-Cycloheptadiene;123.68; 94.57
+[CH(CHCHCHCHCHCH)]+;Tropylium;899.22;879.45
+[N(OO)]-;Dioxaziridinyl anion; 295.9; 293.4
+[CH3CH3]+;Ethane cation;1043.15;1029.14
+[NOO]+;Peroxyimidogen cation;1409.6;1406.8
+ClFF;Chlorine difluoride;  22.5;  23.9
+[CH2CH2]-;Ethylene anion; 232.1; 224.4
+[NOO]-;Peroxyimidogen anion; 165.1; 162.7
+[NNO]+;Nirous oxide cation;1329.7;1326.8
+[NH2CH2C(O)OH]+;Glycine cation; 520.3; 501.8
+CBr2CBr2;Tetrabromoethene; 218.8; 190.3
+[O(NN)]-;Oxadiazirine anion;  95.1;  95.5
+CI2CI2;Tetraiodoethene; 392.2;   388
+CH3CHBr2;1,1-Dibromoethane;  -4.8; -31.8
+[FFO]-;Fluorosyl fluoride anion;-147.1;-146.8
+HNCOH;Carbamoyl;  74.1;  67.7
+CH2NO;Formaldiminoxy;   161;   154
+CH2(NHO);Oxaziridine; 115.6; 103.8
+CCCN;Cyanoethynyl; 715.8; 722.2
+(CHN)CCH2;2-Methylene-2H-azirine; 404.3;   397
+[ONN(O)O]-;Trioxodinitrate anion;-104.3;-107.5
+[CH3C(CHC)]+;3-Methylcycloprop-3-en-2-ylium-1-yl;  1284;1277.5
+[CH2CHCHC]+;Vinylvinylidene cation;1429.9;1424.2
+CH3CHCC;1,2-Butadien-1-ylidene; 511.8; 506.3
+[HCCCHCH]+;1-Buten-3-ynylium;1482.5;  1480
+[CH2CHCC]+;3-Buten-1-ynylium;1572.7;1570.3
+[CH2C(CHC)]+;3-Methylene-1-cyclopropen-1-ylium;1398.8;1395.5
+ON(O2)NO;Nitrosyl nitrate;  70.6;  62.3
+CH3CH2CH2CHO;Butyraldehyde;-185.26;-205.63
+CH2CCHCl;Chloroallene; 181.9; 175.2
+CH3CCCl;1-Chloropropyne; 192.1;   188
+CH3CH(CH2CH2CH2CH2);Methylcyclopentane;-68.58;-106.11
+[SiC]+;Silicon carbide cation;1604.8;1609.4
+[SiF4]+;Tetrafluorosilane cation;-138.1;-142.4
+[HCCH]-;Acetylene anion; 356.9; 356.7
+[SiF2]+;Difluorosilyliumyl;   416; 415.3
+[SiH2]+;Silyliumyl;1155.47;1153.85
+[FOO]+;Fluorodioxidenium;1221.9;1219.5
+[SiH3SiH2]-;Disilanyl anion;  63.3;  50.9
+F+;Fluorine atom cation;1758.3;1760.6
+SiH3I;Iodosilane;   6.9;  -2.8
+[Si(CH3)3]-;Trimethylsilanide;   -42; -65.4
+[FOO]-;Fluorodioxidanide;-256.8;-256.1
+[ClOOO]-;1-Chloro ozone anion;  -109;-111.5
+CH2CHCHCHCCH;(3E)-1,3-Hexadien-5-yne; 358.9; 346.6
+CH2CHCCCHCH2;Divinylacetylene; 361.9; 350.5
+CH2(CHCHCHCCH);1,2,4-Cyclohexatriene; 419.5; 403.7
+[CH3CH2NH2]+;Ethylammoniumyl; 827.6; 807.6
+(CH3)3CNH2;2-Methyl-2-propanamine;   -87;-120.65
+D+;Deuterium atom cation;1532.21;1534.12
+C6H5C(O)C6H5;Benzophenone;  80.7;  51.5
+FNO;Nitrosyl fluoride;-85.48;-87.85
+He+;Helium cation;2372.32;2372.32
+[NeH]+;Neonium;1324.85;1323.04
+[KrH]+;Kryptonium;1106.29;1104.5
+S+;Monosulfur cation;1276.42;1278.21
+[SO]+;Oxosulfur;999.26;999.87
+[FHF]-;Bifluoride;-705.22;-709.07
+H2OS;Hydrogen oxide sulfide;  51.1;  45.1
+[OS(OH)O]-;Hydrogen sulfite;-684.8;-692.1
+(O2S)(OO);Dioxoperoxysulfane;-176.7;-177.7
+[OS(O)OO]-2;Dioxoperoxysulfate dianion;-209.1;-214.8
+CS;Carbon monosulfide;278.91;282.16
+OCl(O)(O)O;Perchloryloxy; 248.4; 240.8
+[CH3CHOH]-;1-Hydroxyethanide; -20.3; -33.7
+[CH3OCH2]+;(Methylmethylene)oxonium;   686; 671.7
+[CH3OCH2]-;Methoxymethyl anion;  23.4;  10.4
+[I3]+;Triiodine cation; 946.1;   941
+[CH3CHO]-;Acetaldehyde anion; -62.1; -72.4
+[CH2CO]+;Ketene cation;882.24;879.07
+[CH2CO]-;Ketene anion;   -16; -19.1
+[HCCO]+;Oxoethenylium;1139.7;1142.5
+[CH2NC]+;Isocyanomethylium;1272.6;1270.4
+[NH2O]-;Aminooxy anion;  47.3;  40.4
+(NH4)Cl;Ammonium chloride;-311.555;-314.717
+(NH4)Br;Ammonium bromide;-253.26;-269.84
+[CH2(CO)]+;Oxiranylidene cation;1165.4;1161.9
+[CH2(CO)]-;Oxiranylidene anion; 236.4; 232.4
+[CH3OOH]+;Methyl hydroperoxide cation; 833.8; 819.7
+ONONO2;Nitrosyl nitrate;  48.3;  40.3
+[CH(OH)2]+;Dihydroxymethylium; 421.5; 410.2
+[CH2(OH)O]+;Hydroxymethoxy cation;   925; 914.7
+HOCH2OCH2OH;Oxybismethanol;-534.2;-557.2
+[CH3OO]+;Methoxyoxoniumylidene;1012.33;1003.5
+[CH2(OO)]-;Dioxirane anion;  -173;-179.8
+[CH2OO]-;Dioxymethyl anion;  55.1;  49.9
+[HOF]+;Hypofluorous acid cation;1142.01;  1139
+(H)(OCO);H-CO2 vdW complex;-178.3;-177.5
+[CCC]-;1,2-Propadien-1-yl-3-ylidene anion; 621.7; 629.1
+[HNO]-;Hydrooxonitrate;  78.6; 75.68
+[NH]-;Imidogen anion;322.63;322.68
+[C(NO)]+;Oxazirinyl cation;1565.5;1566.2
+[C(NO)]-;Oxazirinyl anion; 448.2;   449
+[BrCN]-;Cyanogen bromide anion;  57.9;  54.3
+[NOH]-;Hydroxyimidogen anion; 229.8; 227.4
+[CH3N]-;Methylimidogen anion; 321.1; 313.4
+[HOF]-;Hypofluorous acid anion; 155.3; 154.7
+[C(CC)]-;2-Cyclopropyn-1-yl anion; 664.5; 671.8
+[CH2CHC]-;2-Propenylidyne anion; 464.6; 460.9
+[CHCHCH]+;2-Propen-3-yliumylidene;1494.5;1491.6
+[CH2CHNH]+;(E)-2-Iminoethylium;1108.4;1097.7
+[CH2CHNH]-;2-Iminoethyl anion; 104.5;  93.6
+[CHCHCH]-;2-Propenylidene anion;   536; 532.6
+[HONO]+;Hydroxyoxoammoniumyl; 984.1; 977.7
+[NCCN]+;Cyanogen cation;1598.25;1600.47
+CNCN;Isocyanogen; 412.1; 414.4
+NNCC;Diazoethenylidene; 658.6; 661.2
+[CH3OH]-;Methanol anion;   -89; -99.7
+[CNC]+;Isocyanomethyliumylidene;1615.7;1621.2
+[CNC]-;Isocyanomethylidyne anion; 479.2; 482.9
+[CCN]+;Cyanomethyliumylidene;1719.8;1725.3
+[CCN]-;Cyanomethylidyne anion;   410; 413.7
+N(CC);2,3-didehydro-1H-azirin-1-yl; 720.3; 724.4
+[CH2N]+;Methyleneaminylium;1456.7;1453.1
+[C]+4;Carbon tetracation;14993.6;14998.8
+[NCHN]-;Iminomethylimidogen anion; 401.9; 398.6
+[HN(NC)]+;1H-Diazirin-3-ylium;1527.2;1523.7
+[HN(NC)]-;1H-diazirin-3-ide; 379.8; 376.7
+[HNCNH]+;Methanediimine cation;1137.8;1133.1
+[CH2NN]+;Diazomethane cation;1141.94;1135.66
+[CH2(NN)]+;3H-Diazirine cation;1327.6;  1322
+HOON;Hydroperoxyimidogen; 103.3;  99.8
+[CH(NHN)]+;1H-Diazirene cation;1333.4;1326.3
+[NH2NC]+;Isocyanamide cation;1321.4;1316.1
+[C(NHNH)]+;3-Diaziridinylidene cation;1479.7;1473.7
+[CCl3]+;Trichloromethylium;856.15;854.63
+[CNH2]+;Aminomethyliumylidene;1168.3;1165.1
+[CCl2]+;Dichloromethyliumyl;  1122;1122.9
+[NF]+;Fluoroaminyliumyl;1415.09;1415.63
+[CH2O]-;Formaldehyde anion; -26.7; -28.3
+[N(NN)]+;Triazirinylium ion;  1609;1606.1
+HN(NN);Triazirine; 464.2; 457.7
+CC(CC);3-Methanetetrayl-1,2-cyclopropanediylidene;1154.7;1164.2
+[HON(O)O]+;Nitric acid cation;1029.21;1020.14
+CH2(CC);1-Cyclopropene-1,2-diyl; 791.2; 790.7
+[CH3Cl]+;Chloromethane cation;1014.63;1007.86
+[FFO]+;Fluorosyl fluoride cation;1413.1;1413.4
+[CC(CC)]-;2-Cyclopropyn-1-ylidenemethyl anion; 800.8; 809.8
+CH2FBr;Bromofluoromethane;-197.4;-211.9
+CHFBr2;Fluorodibromomethane;-159.7;-179.3
+CF2ClBr;Difluorochlorobromomethane;-428.9;-439.9
+CCl2FBr;Dichlorofluorobromomethane;-228.3;-238.3
+CBr2FCl;Dibromofluorochloromethane;-169.9;-186.8
+Kr+;Krypton cation;1350.76;1350.76
+[CH(CC)]+;Cyclopropenyliumdiyl;1692.3;1695.3
+[CH(CC)]-;Cyclopropynyl anion; 518.4;521.38
+[ClFF]+;Chlorine difluoride cation;1346.3;1344.9
+[NNNN]+;Tetranitrogen cation;1392.8;1392.5
+[FCCF]+;1,2-Difluoroacetylene cation;1081.7;1084.4
+[CF2O]+;Difluorophosgene cation;653.45;650.69
+[ClFF]-;Chlorine difluoride anion;  -319;  -319
+ClCOCl;Chloro(chlorooxy)methylene;  73.5;  73.7
+ClCOH;Chlorohydroxymethylene;    14;  11.1
+HCOCl;(Chlorooxy)methylene; 119.3; 117.9
+[ClClO]+;Chlorosyl chloride cation;1132.6;1130.8
+[ClClO]-;Chlorosyl chloride anion;-185.4;-184.7
+[C6H4(CHCHCH2)]+;Indene cation;969.97;946.73
+[C6H5O]+;Phenyloxoniumylidene; 898.7; 884.4
+ClCl(O)O;Chloryl chloride; 126.1; 122.1
+[HOCl]+;Hypochlorous acid cation;998.94; 995.9
+[NH(CHCHCHCHCH)]+;Pyridinium; 761.7; 740.8
+CH2C(OH)CH2;2-Hydroxy-2-propenyl;     4;  -9.5
+[NNO]-;Nirous oxide anion;  99.3;  96.7
+[OOO]+;Ozone cation;1352.88;1350.54
+[NF2]-;Difluoronitrate; -70.7; -72.6
+[CH3CH]+;1-Ethylium-1-yl;  1182;1174.7
+[CH2CHCCH2]+;1-Methylene-2-propenylium;1059.5;1049.4
+[CH3CH]-;Ethylidene anion; 325.7; 318.4
+(CH2C(O)OH)2(NH3);Monoammonium succinate;   nan;-1067.85
+(CH2COOH)2(NH3)2;Diammonium succinate;   nan;-1182.36
+O(CH2CHCH);2H-Oxete;  65.8;  53.3
+[CH2CCHO]+;1-Formylethenylium;1023.5;  1018
+[OCCO]+;Ethenedione cation; 909.5; 912.6
+[HOCl]-;Hypochlorous acid anion; 198.7; 198.4
+[CH2CHCHCH]+;1,3-Butadienylium;1133.7;1123.7
+[CH2CCN]+;1-Cyanovinylium;1318.3;1317.1
+NH4;Ammonium radical;190.01;179.42
+O4;Tetraoxygen; 145.8; 142.2
+[CH2CCCH2]+;Butatriene cation;1210.6;1204.8
+CH2(CCH)CH;Bicyclo[1.1.0]but-3-ene; 483.2; 474.2
+[CH2CHCHC]-;Vinylvinylidene anion; 405.8;   399
+[CH(CH(CHCH))]+;Tetrahedrane cation;1326.8;1318.6
+CH2(CC)CH2;Bicyclo[1.1.0]but-1(3)-ene; 578.8; 570.4
+[CH2(CC)CH2]+;Bicyclo[1.1.0]but-1(3)-ene cation;1461.7;1453.6
+[CHC(CHCH)]+;2-Cyclopropen-1-ylidenemethylium;1346.5;1343.9
+[C(CHCHCH)]+;1,3-Cyclobutadien-1-ylium;1388.4;1383.4
+NCNNN;Cyanic azide; 502.8; 498.3
+C6H5OOH;Phenyl hydroperoxide;  13.8;  -5.2
+CH2CHCHCHCHCH2;trans-1,3,5-Hexatriene; 184.1; 164.2
+CH3C(CHCHCHCH);Methylcyclopentadienyl;   239; 221.4
+[HD]+;Deuterium hydride cation;1490.5;1490.59
+[SiH2]-;Silylene anion; 167.2; 165.6
+[SiH]+;Silyliumylidene;1136.49;1137.7
+[HCl]+;Chloroniumyl ion;1137.8;1137.73
+[SiH2SiH2]+;Disilene cation;1069.5;1060.4
+[HSi(HSiHH)]+;Di-mu-hydrodihydrodisilicon cation;1180.3;1172.7
+[HSi(HSiHH)]-;Di-mu-hydrodihydrodisilicon anion; 288.5;   280
+Si(HSiH3);mu-Hydrotrihydrodisilicon; 459.2; 450.9
+CH2CHSiH3;Vinylsilane; 107.9;  92.5
+Br3;Tribromine;   156; 134.3
+[NH2NH]+;Diazenium;968.67;957.41
+HOOCl(O)O;Peroxychloric acid;  76.6;  68.4
+[Br3]-;Tribromide;-287.4;-308.5
+(CHCH)(CHCHCHCH);Dewar benzene; 422.2; 405.1
+[CH3NH2]+;Methylammoniumyl;865.99;852.05
+CH2CCHCCCH3;1,2-Hexadien-4-yne; 407.5; 397.5
+CH2CHC(CH2)CCH;3-Methylene-1-penten-4-yne; 362.7; 350.1
+HCCCH(CH3)CCH;3-Methyl-1,4-pentadiyne; 439.1; 427.7
+[CH3NH2]-;Methylamine anion;  84.2;  69.4
+[CH3CH2NH]+;Ethylaminylium;1092.4;1076.5
+C6H5CH2CH2C6H5;1,2-Diphenylethane; 84.82; 51.08
+C6H5CCC6H5;Diphenylacetylene; 432.4; 407.3
+C(CCH)C;Bicyclo[1.1.0]buta-1,1-diene-2,4-diyl; 990.4; 993.6
+[ArH]+;Argonium;1151.8;1150.1
+[XeH]+;Xenonium;1038.2;1036.42
+[F3]+;Trifluorine cation;  1530;1527.9
+OSOO;Sulfur oxide peroxide;   -26; -30.2
+[SSS]-;Trisulfide;-83.72;-84.64
+CH2(CHCHCH2CH2CH2);Cyclohexene; 27.19; -4.28
+[CH3CHCH3]-;iso-Proplylide; 128.8; 110.4
+[CH2NH2]-;Aminomethyl anion; 209.5; 199.2
+[CH3CHCH2]+;Propylene cation; 975.2;961.67
+[ClO(O)O]-;2-Chloro ozone anion;-103.6;-105.9
+[CH3NH]+;Methylaminilium;1135.2;1125.4
+[CH2NH]+;Methyliumylamino;1056.1;1049.2
+[CH2NH]-;Azanidylmethyl; 224.4; 217.1
+CH3S(OH)CH3;Hydroxydimethylsulfur; -19.7; -37.7
+[CHNH2]+;Aminomethyliumyl;1039.5;1031.8
+[CHNH2]-;Aminomethylene anion;   353; 346.1
+HC(OO);Dioxiranyl; 217.3; 213.9
+[CCC]+;1,2-Propadien-1-ylium-1-yl-3-ylidene;1957.18;1965.05
+[CH3CC]+;1-Propynylium;1547.1;1545.1
+(CH3)3COH;2-Methyl-2-propanol;  -282;-312.1
+ClNC;Isocyanogen chloride; 314.7; 316.3
+[BrO]+;Oxobromonium;  1140;1132.2
+[CH2(CHC)]+;Cycloprop-1-enylium;1502.3;  1498
+[C(OO)]-;Dioxiranylidene anion;-110.2;-109.7
+[C]+2;Carbon dication;4150.46;4155.61
+BrNC;Isocyanogen bromide; 341.2; 335.5
+[CH(CHCH)]-;Cycloprop-2-enylide; 514.9; 511.9
+[COO]+;Dioxymethylidyne cation;1436.6;  1439
+INC;Isocyanogen iodide; 341.7; 341.9
+[INC]-;Isocyanogen iodide anion;   123; 125.2
+[CH3CNH]+;1-Iminoethylium; 833.7; 823.2
+[CH3CNH]-;1-Iminoethanide; 185.7; 175.3
+[HONO]-;Nitrous acid anion;-105.84;-110.46
+[CH2NCH2]+;N-Methylenemethaniminium; 904.4; 893.4
+[CH3NCH]-;(Methylimino)methanide;   223; 212.2
+[CHCHNH2]+;2-Aminoethenylium;1110.6;1099.5
+[CHCHNH2]-;2-Aminoethenyl anion; 230.2; 219.3
+[NH(CHCH2)]+;2-Aziridinylium;1010.9; 998.9
+[NH(CHCH2)]-;2-Aziridinide; 316.2; 304.1
+[NCCN]-;Cyanogen anion; 281.5; 284.7
+[CNNC]+;Diisocyanogen cation;1825.3;1828.1
+[(C)(OO)]+;Dioxymethylidyne cation;1388.2;1391.7
+[NCN]+;Cyanoaminyliumyl;1672.4;1673.7
+[NCN]-;Cyanoamidogen anion;211.89;211.82
+[O]+6;Oxygen atom hexacation;42035.3;42037.1
+[CO2]-;Carbon dioxide anion;-340.6;-340.1
+(CH3OH)2;Methanol dimer;-398.3;  -419
+[C(CHCH)]-;Cyclopropenylidene anion; 544.2; 543.8
+[C(CC)C]+;Bicyclo[1.1.0]buta-1,3-dien-4-ylium-2-yl;2087.7;2097.5
+[ClOO]-;Peroxyhypochlorite;-252.78;-251.75
+[OClO]+;Chloryl ion;1100.26;1097.6
+[C(CC)C]-;Bicyclo[1.1.0]buta-1,3-dien-2-yl anion; 803.1; 810.7
+HCNNH;Methylenediazeniumide; 375.2; 368.7
+[HCNNH]+;Methylidynehydrazinium-1-yl;1251.8;1245.8
+HNCHN;(Iminomethyl)imidogen; 420.1; 413.1
+[CNN]+;Diazomethyliumyl;1639.6;1640.8
+[CNN]-;Diazomethylene anion;   407; 407.1
+C(NN);3H-Diazirin-3-ylidene; 579.1; 579.5
+[NF2NF2]+;Tetrafluorohydrazine cation;1129.2;1122.5
+[HCCNH]+;Ethynylaminylium;1277.8;1277.4
+[CCl]+;Chloromethyliumylidene;1282.8;1285.8
+[CCl]-;Chloromethylidyne anion; 319.8; 323.6
+ClOO;Chlorodioxidanyl;100.36; 99.27
+[HOOCl]+;Peroxyhypochlorous acid cation;1030.4;1024.6
+[CCCC]-;1,3-Butadiynyl anion; 677.2; 686.3
+[CC(CC)]+;2-Cyclopropyn-1-ylidenemethyliumyl;2239.7;2247.6
+[CHCHC]+;2-Propen-3-ylium-1-ylidyne;1791.2;1792.8
+[HOOCl]-;Peroxyhypochlorous acid anion; -32.2; -33.9
+[CHCHC]-;Propenediylidene anion; 588.8; 590.1
+CBr3F;Tribromofluoromethane; -97.9;-121.9
+CBr3Cl;Tribromochloromethane;  86.7;  63.9
+N(NNN);Tetrazete; 764.9;   759
+[CF2]-;Difluoromethylene anion;-211.16;-209.98
+[CF]-;Fluoromethylidyne anion; 200.8; 204.3
+N(N(N)N);Tetraazatetrahedrane; 763.7; 757.3
+CCF2;Difluorovinylidene; 129.4; 130.6
+[CCF]+;Fluoroethynylium;1536.5;1541.2
+[HCC(O)H]+;2-Oxo-1-ethylium-1-yl;1289.4;  1286
+ONNO;Dioxohydrazine; 172.9;171.13
+[FOF]+;Oxygen difluoride cation;1292.1;1289.58
+[HCC(O)H]-;Oxoethylidene anion;  86.9;  83.6
+[ClCO]+;Chlorooxomethylium; 783.7; 783.9
+ICH2CH2OH;2-Iodoethanol;   nan;-207.2
+[HCCCCH]+;1,3-Butadiyne cation;1440.26;1442.12
+[CO]-;Carbon monoxide anion;    30;  33.7
+[CCCCCCH]-;1,3,5-Hexatriynide; 635.6; 644.1
+[OCCCO]+;Carbon suboxide cation; 928.8; 932.3
+[OCCCO]-;Carbon suboxide anion;-131.1;-127.7
+[C6H6]-;Benzene anion; 209.1; 197.2
+HD;Deuterium hydride; 0.328; 0.319
+[CH(CHCHCHCH)]+;Cyclopentadienylium;1088.72;1075.85
+[FOOF]+;Difluorodioxidanium;1283.7;1279.2
+C6H5NC;Isocyanobenzene;   321; 307.1
+C6H4(CHCH2CH);Isoindene; 269.9; 246.5
+OOF2;Dioxygen difluoride;  75.1;  71.7
+C6H5C(OH)CH2;1-Phenylethenol;  -8.7; -32.5
+[OCl(O)O]+;Perchloryl cation;1252.1;1246.4
+[O2NNO2]+;Tetraoxodinitrogen cation;1030.6;1025.1
+[C6H5F]-;Fluorobenzene anion; -15.3; -27.1
+[C6F6]-;Hexafluorobenzene anion;-992.7;  -995
+HOOOO;Tetraoxidanyl;    53;    46
+[C6H4Cl]+;m-Chlorophenylium;1161.7;1151.6
+[NH3]-;Ammonia anion;  94.3;  87.3
+Cl3;Trichlorine; 125.3; 125.8
+[C6H5I]+;Iodobenzene cation;1023.62;1008.19
+[NH2NH2]+;Hydraziniumyl; 886.7; 873.3
+[FHF]+;Hydrogen difluoride cation;  1241;  1238
+[NNH2]-;Isodiazene anion; 380.9; 374.1
+[O(NN)]+;Oxadiazirine cation;1509.9;1507.2
+[CH2OOH]+;Hydroxymethyleneoxonium;792.97;782.83
+(CH3)2CHCH2C(CH3)3;2,2,4-Trimethylpentane;-224.2;-258.6
+(CH2C(O)OH)2;Succinic acid;-801.1;-823.3
+CH2ICH2I;1,2-Diiodoethane; 87.84; 73.18
+O(OO);Trioxirane; 272.5; 269.9
+[CH2CHCHO]+;Acrolein cation;920.02;909.88
+[CH2CHCHO]-;Acrolein anion; -71.8; -81.9
+[CH2CHCO]+;1-Oxo-2-propenylium; 772.8;   766
+[CH2CHCO]-;1-Oxo-2-propenide;  50.7;    46
+[NON]+;NON cation;  1444;1444.2
+[OCCO]-;Ethenedione anion;-149.7;-147.1
+[NON]-;NON anion; 495.3; 492.8
+[OC(O)O]-2;Carbonate;-225.2;-228.4
+(HON(O)O)(H2O)3;Nitric acid trihydrate;-1061.98;-1055.13
+[FOF]-;Oxygen difluoride anion;-202.1;-201.9
+FNC;Isocyanic fluoride; 300.9; 302.7
+(HON(O)O)(H2O);Nitric acid monohydrate;-479.09;-472.59
+[(HF)(F)]+;Hydrogen difluoride cation;1267.6;1265.4
+[C(CHCHCH)]-;1,3-Cyclobutadien-1-yl anion; 616.5; 611.9
+[CH2(CHCHCH)]+;Cyclobutenylium;1038.7;1025.6
+(HF)(H);Dihydrogen fluoride; -56.5; -54.2
+H(HH);Trihydrogen;756.931;754.146
+[Si2]+;Disilicon cation;1352.3;1355.9
+[SiO2]+;Dioxosilane cation; 946.3; 946.2
+[SiO2]-;Silicate;-477.5;-478.2
+[SiO]-;Oxosilicate;  -106;-104.8
+C(CH2)3C;Bicyclo[1.1.1]pentane-1,3-diyl; 783.4; 766.2
+[SiF]-;Fluorosilylidyne anion;  -139;-137.7
+HCl(O)(O)O;Chlorine hydride oxide; 163.9;   154
+[SiH4]+;Silane cation;1104.7;1097.5
+[SiH3]+;Silylium;989.66;984.08
+I3;Triiodine; 153.4; 149.4
+[SiH]-;Silylidyne anion;   250; 251.2
+[SiH3SiH2]+;Disilanylium; 981.5; 970.2
+[SiH3SiH]+;1-Disilanylium-1-yl;1124.1;1116.5
+[CCH2]+;1-Ethenylium-1-yl;1507.1;1507.1
+BrBrO;Bromosyl bromide; 180.4; 164.6
+[CH2CHC(CHCHCHCH)]+;Vinylcyclopentadienylium;1076.9;1059.5
+[HNNN]+;Hydrazoic acid cation;1333.73;1328.06
+(H2O)(H);Hydronium radical; -18.5; -21.5
+[HBr]+;Bromoniumyl;1098.16;1090.32
+[ONONO]-;Nitrosyl nitrite anion;-103.1;-106.2
+[HNNN]-;Hydrazoic acid anion; 309.1; 302.8
+[HCl]-;Hydrochlorate ion; -25.2; -24.2
+(C3)(CH2)3;Trimethylenecyclopropane; 454.3; 441.4
+CH2(CCHCHC)CH2;3,4-Bis(methylene)cyclobutene; 355.6; 341.1
+HCCC(CHCH2CH2);1-Ethynylcyclobutene; 402.3;   388
+CH2CC(CH3)CCH;3-Methyl-1,2-pentadien-4-yne; 414.7; 403.5
+CH2CCCC;1,3-Pentadiyne-1.5-diyl; 783.8; 787.4
+[CHCCHCCH]-;Penta-1,4-diyn-3-ide; 443.9; 443.3
+[CH3CH2CH3]+;Propane cation; 974.7; 954.6
+[CH3CHNH2]+;1-Aminoethylium; 683.4; 664.8
+[CH3CHCH]+;1-Propenylium;1231.9;1221.6
+[CH3CHCH]-;1-Propenylide;   204; 192.7
+He2;Dihelium;1733.31;1729.58
+[HeHH]+;Dihydrohelium cation;1467.27;1461.99
+Ne+;Neon cation;2080.66;2080.77
+[S2]+;Disulfur cation;1031.49;1032.08
+S(SS);Cyclic thiozone; 168.5; 166.7
+[NF3]+;Trifluoroammoniumyl;1093.4;1087.3
+[SH]+;Sulfanylium;1148.36;1148.36
+[C(OO)]+;Dioxiranylidene cation;1409.1;1410.3
+F3;Trifluorine;  80.9;  82.1
+[CH3CHOO]+;Ethylideneoxoniumyloxy; 950.9; 938.4
+(HOO)2;Dioxidanyl dimer; -8.28;-17.85
+[OHS(O)(O)O]+;Sulfur hydroxide oxide cation; 658.6; 647.8
+(OH)(OSO);Sulfur dioxide - hydroxyl complex;  -266;-268.1
+[NF3]-;Trifluoronitrate;-246.7;-248.9
+[OS(O)(O)O]-;Sulfate monoanion;-736.9;-744.6
+N(O3)N;2,4,5-Trioxa-1,3-diazabicyclo[1.1.1]pentane; 602.5; 593.3
+[CH3CCH3]+;1-Methyl-1-ethylium-1-yl;1058.3;1045.8
+Pt+;Platinum atom cation;1427.8;1428.3
+Pt2;Platinum dimer; 823.5; 822.5
+PtH;Platinum hydride; 451.6; 450.7
+[PtH]+;Platinum hydride cation;1363.1;1382.3
+[CH3CCH3]-;Isopropylidene anion; 282.5; 268.4
+[N]-2;Nitrogen atom dianion;1062.8;  1065
+[HC(NN)]+;Diazirinylium;1384.8;1381.2
+[NCHN]+;Iminomethylimidogen cation;1677.6;1676.4
+[F]+5;Fluorine atom pentacation;30617.6;30619.4
+[Cl]+2;Chlorine atom dication;3668.47;3670.08
+[CH3N]+;Methylaminyliumyl;1388.2;1381.9
+[CCCC]+;1,3-Butadiyn-4-ylium-1-yl;2109.8;2120.5
+HN(OO);Dioxaziridine; 277.5; 270.8
+[O]+2;Oxygen atom dication;4949.46;  4953
+(N2)2;Dinitrogen dimer; -0.88;  0.84
+[F]+8;Fluorine atom octacation;155686;155688
+[C]+5;Carbon pentacation;52824.6;52829.7
+[F]+6;Fluorine atom hexacation;45781.5;45783.3
+D-;Deuteride;146.991;148.904
+[C]+6;Carbon hexacation;100102;100107
+[ClOO]+;Chlorodioxidenium;1215.1;1212.9
+[FCl(F)F]+;Chlorine trifluoride cation;1053.5;1049.2
+[CCF2]+;Difluorovinylidene cation;1181.5;  1183
+[O]+8;Oxygen atom octacation;197448;197450
+ICCI;1,2-Diiodoacetylene;   416; 416.8
+[OFO]-;Dioxofluorine anion; 155.9; 154.4
+[CH3CH2CHCH3]+;sec-Butylium; 792.8; 769.2
+[CCCCCCH]+;1,3,5-Hexatriynylium;1952.6;1961.4
+[F]+4;Fluorine atom tetracation;19594.3;19596.6
+[N]-3;Nitride;1879.1;  1881
+[Cl]+4;Chlorine atom tetracation;12615.5;12617.1
+CH(CHC(CH2)C(CH2)CH);4,5-Bis(methylene)-2-cyclopenten-1-yl; 315.3; 297.1
+CH(C(CH2)CHCHC(CH2));2,5-Bis(methylene)-3-cyclopenten-1-yl;   321; 302.8
+[O2NNO2]-;Tetraoxodinitrate anion;-184.6;-187.8
+[OFO]+;Dioxofluorine cation;  1667;1664.8
+[BrNC]-;Isocyanogen bromide anion; 105.1; 101.9
+[CH(CHCHCHCHCHCH)]-;Tropylide; 261.7; 245.4
+[C6H4(CHCH2CH)]+;Isoindene cation; 985.2; 961.9
+[C]+3;Carbon trication;8770.93;8776.08
+(H2O)3;Water trimer;-762.64;-776.75
+[F]+7;Fluorine atom heptacation;63649.3;63651.1
+[Cl]+6;Chlorine atom hexacation; 28501; 28503
+[O]+3;Oxygen atom trication;10249.9;10252.9
+[CH2CHC]+;2-Propen-1-ylium-1-ylidene;1373.2;1369.7
+[F]+3;Fluorine atom trication;11182.9;11186.7
+[H2]-;Dihydrogen anion; 253.8; 254.7
+[F2]+;Difluorine cation;1514.3;1514.47
+BrOO;Bromodioxy; 116.8; 107.7
+[CH2CCHO]-;Propadien-1-olate;   1.5;  -4.4
+[CH2CCO]+;1,2-Propadien-1-one cation;1012.8;1011.4
+[CHCCHO]+;2-Propynal cation;1168.4;1167.2
+[CC(CHO)]+;Formylethynyl cation;  1540;1541.9
+[CCCHO]+;Formylethynyl cation;1540.7;1542.9
+[C]-4;Carbide;2709.5;2714.7
+[O]+7;Oxygen atom heptacation;113369;113371
+[HCCCN]+;Cyanoacetylene cation;1495.59;1497.89
+[HCCNC]+;Isocyanoacetylene cation;1567.8;1570.4
+[CCCN]+;Cyanoethynylium;1867.6;1874.3
+[ClOCl]-;mu-Oxodichlorate anion;-147.8;-147.7
+[N]+4;Nitrogen atom tetracation;16781.7;16783.6
+[CH3CHCC]+;1,2-Butadien-1-ylium-1-yl;  1467;1461.8
+[CH2(CC)CH2]-;Bicyclo[1.1.0]butan-3-id-1-yl; 524.7;   516
+C(CHCH2CH);1,2-Cyclobutadiene;   586; 579.4
+[N]+5;Nitrogen atom pentacation;26226.7;26228.6
+(NH2NH2)(H2O);Hydrazine monohydrate;   nan;-242.58
+HC(O)N;Formylimidogen; 245.3; 242.1
+[Cl]+5;Chlorine atom pentacation; 19147; 19149
+[O(OO)]+;Trioxirane cation;1444.4;1442.2
+N-;Nitrogen atom anion; 488.2; 490.5
+[Si]+2;Silicon atom dication;  2814;2816.98
+[Si]+3;Silicon atom trication;6045.58;6048.56
+[O]+4;Oxygen atom tetracation;17719.2;17721.1
+[SiO]+;Oxosilyliumyl;  1022;1023.1
+[CH3CCH2]+;1-Methylethenylium; 995.2;   986
+[CH3CCH2]-;1-Methylethenyl anion; 199.4; 188.2
+[N]+6;Nitrogen atom hexacation;79493.1; 79495
+[SiH2(HSiH2)]+;mu-Hydrotetrahydrodisilicon cation; 981.6; 968.8
+[SiH2(HSiHH)]+;Di-mu-hydrotrihydrodisilicon cation;1033.7;1020.3
+[Cl]+3;Chlorine atom trication;7487.2;7490.2
+[SiH2SiH2]-;Disilene anion; 178.6; 170.2
+[SiH3SiH]-;Silylsilylene anion; 160.3; 151.6
+SiH2(HSiH);mu-Hydrotrihydrodisilicon; 317.9; 307.8
+[Si(HSiH3)]+;mu-Hydrotrihydrodisilicon cation;1160.1;  1152
+[Br3]+;Tribromine cation;1036.3;1013.6
+[SiH3O]+;Silyloxoniumylidene;1096.3;1089.9
+[SiH2OH]+;Hydroxysilylium; 600.3; 591.6
+(NH4)2O;Ammonium oxide;-428.46;-430.46
+CH2((CCH)(CHCHCH));Bicyclo[3.1.0]hexa-1,3-diene; 406.5; 390.9
+CH2CC(CHCHCH2);3-Ethenylidenecyclobutene; 406.6; 392.5
+HCCCHCCHCH3;3,4-Hexadien-1-yne; 418.7; 407.5
+HCCCH(CHCHCH2);3-Ethynylcyclobutene; 421.8; 407.4
+O(CH2OOCH2);1,2,4-Trioxolane;-204.6;-222.8
+[CNCN]+;Isocyanogen cation;1654.2;1656.5
+HCCC(CCH);2-Ethynyl-2-cyclopropen-1-ylidene; 726.2; 727.4
+[O]+5;Oxygen atom pentacation;28708.8;28710.6
+C(CH(CHCH)CH);Pyramidane; 602.4; 593.9
+C((CHCH))2;Spiropentadiene; 651.9; 644.6
+[CH2CH2NH2]+;2-Aminoethylium;1042.7;1026.1
+[CH2CH2NH2]-;2-Aminoethyl anion;   149; 131.9
+[C6H4(CHCCHCH)]+;2-Naphthalenylium;1195.7;1177.8
+[C6H4(CCHCHCH)]+;1-Naphthalenylium;1192.8;1174.8
+C60;Buckminsterfullerene;2523.5;2518.9
+CH(CCC);Cyclobutatrienyl;   962; 965.5
+He-;Helium anion;1904.82;1904.82
+[He2]+;Dihelium cation;2143.64;2139.91
+[He2]-;Dihelium anion;1714.9;1711.2
+[D2]+;Deuterium molecule cation;1492.29;1492.36
+HeHH;Helium dihydride; -0.05;  0.87
+[N]+3;Nitrogen atom trication;9306.69;9308.55
+HHeH;Helium dihydride; 614.5; 608.9
+[HHeH]+;Dihydrohelium cation;1572.2;1568.9
+[Ne]+2;Neon dication;6032.99;6033.21
+[Ne]+3;Neon trication;12152.4;12152.4
+[Ne]+4;Neon tetracation;21529.8;21531.5
+[Ne]+5;Neon pentacation;33711.1;33711.1
+[Ne]+6;Neon hexacation;48949.3;48949.3
+[Ne]+7;Neon heptacation;68948.7;68948.7
+[Ne]+8;Neon octacation;92018.2;92018.2
+[Ne]+9;Neon nonacation;207396;207396
+[S]+2;Sulfur atom dication;3528.19;3531.88
+[S]+3;Sulfur atom trication;6890.8;6892.8
+[S]+4;Sulfur atom tetracation;11447.1;11448.8
+[S]+5;Sulfur atom pentacation;18451.4;18453.2
+[F]+2;Fluorine atom dication;5132.47;5134.26
+S(OO);Dioxathiirane; 166.2; 163.7
+OS(OO);3-Oxidedioxathiirane;-127.9;-132.8
+S(OOO);Trioxathietane; 263.6; 258.5
+O(SS);Oxadithiirane; 136.4; 134.3
+SOS;Sulfanylideneoxidaniumthiolate; 220.7;   219
+[SSS]+;Thiozone cation;1073.1;1071.5
+[S(SS)]+;cyc-Thiozone cation;1040.2;1039.6
+[S(SS)]-;cyc-Trisulfide;  15.2;  14.6
+[ClOCl]+;mu-Oxodichlorine cation;1130.45;1126.84
+(H)(HH);Trihydrogen; 215.9; 218.3
+[N]+2;Nitrogen atom dication;  4729;4731.82
+ClO(O)O;2-Chloro ozone; 265.7; 265.1
+(OS(O)(OH)2)(H2O);Sulfuric acid monohydrate;-1126.32;-1127.48
+(OS(O)(OH)2)(H2O)2;Sulfuric acid dihydrate;-1422.14;-1426.93
+(OS(O)(OH)2)(H2O)3;Sulfuric acid trihydrate;-1716.08;-1720.2
+(OS(O)(OH)2)(H2O)4;Sulfuric acid tetrahydrate;-2006.93;-2010.97
+(OS(O)(OH)2)(H2O)5;Sulfuric acid pentahydrate;   nan;-2300.36
+(OS(O)(OH)2)(H2O)6;Sulfuric acid hexahydrate;   nan;-2588.91
+(OS(O)(OH)2)(H2O)7;Sulfuric acid heptahydrate;   nan;-2876.86
+(OS(O)(OH)2)(H2O)8;Sulfuric acid octahydrate;   nan;-3164.36
+(OS(O)(OH)2)(H2O)9;Sulfuric acid nonahydrate;   nan;-3451.52
+(OS(O)(OH)2)(H2O)10;Sulfuric acid decahydrate;   nan;-3738.42
+(OS(O)(OH)2)(H2O)12;Sulfuric acid dodecahydrate;   nan;-4311.63
+(OS(O)(OH)2)(H2O)15;Sulfuric acid pentadecahydrate;   nan;-5170.52
+[CH2(CH2CH2)]+;Cyclopropane cation;1021.8;1006.3
+[CH2S]+;Thioformaldehyde cation;1025.9;1022.4
+[BrNC]+;Isocyanogen bromide cation;  1470;1464.3
+[CH(CHCHCHCH)]-;Cyclopentadienide;101.19; 88.21
+[HOClO]+;Chlorous acid cation; 996.6; 991.6
+[CH3OCO]+;Carbonylmethyloxonium; 561.2; 552.9
+[C6H4(CH2CH2CH2)]+;Indane cation; 909.4; 879.5
+[C6H4(CHCHCH2)]-;Indene anion; 242.7; 220.3
+[C6H4(CHCH2CH)]-;Isoindene anion; 239.8; 217.2
+[C6H4(CHCHCH)]-;Indenide; 125.3; 105.3
+[C6H5OH]+;Phenol cation;746.51;727.71
+[C6H5OH]-;Phenol anion;  23.1;   8.2
+[FCl(F)F]-;Chlorine trifluoride anion;-480.4;-481.9
+[C6H5C(O)H]+;Benzaldehyde cation;   897; 880.3
+[C6H5C(O)H]-;Benzaldehyde anion;   -55; -72.7
+[CH3C(O)O]+;Acetyloxoniumylidene; 892.4;   884
+[C6H5CO]-;Benzoyl anion;  70.3;  57.6
+[CH3CH3]-;Ethane anion;  41.8;  26.5
+[HOClO]-;Chlorous acid anion;-154.3;-156.1
+[ICN]+;Cyanogen iodide cation;1271.3;1271.2
+[C6F6]+;Hexafluorobenzene cation; 13.69;  9.91
+[FNNF]+;(E)-Difluorodiazene cation;1307.4;1302.3
+[CNH2]-;Aminomethylidyne anion; 481.6; 478.1
+[O(CHCHCHCH)]+;Furaniumyl;   836; 823.2
+[O(CHCHCHCH)]-;Furan anion; 132.1; 120.8
+[N(CHCHCHCHCH)]+;Pyridiniumyl;1051.32;1035.37
+[N(CHCHCHCHCH)]-;Pyridine anion; 214.4; 200.9
+[HOI]+;Hypoiodous acid cation; 891.4; 886.6
+[OCHCO]+;Dioxoethylium; 688.6; 689.8
+[OCHCO]-;Ethanedial anion;-188.8;-190.3
+[Cl]-2;Chlorine atom dianion; 406.6; 408.2
+[HOCCO]+;Hydroxyoxoethenylium; 866.4; 865.2
+[HOCCO]-;Ethynediolide;-132.9;  -134
+[FCN]+;Cyanic fluoride cation;1294.2;1294.6
+[C2]-2;Acetylide;   843; 849.5
+[ClCN]-;Cyanogen chloride anion;  46.8;  51.2
+[HNCO]-;Isocyanic acid anion; -54.2; -57.4
+[CH3NHCH2]-;(Methylamino)methyl anion; 202.1; 185.2
+[HN(O)O]-;Hydrodioxonitrate; -61.9; -68.3
+[FOOF]-;Difluorodioxidane anion;  -251;  -251
+[CH3CCOH]+;Propyn-1-ol cation; 959.9; 951.7
+[FNNF]-;Difluorodinitrate;-207.8;-206.6
+[Cl2]+;Dichlorine cation;1108.31;1108.29
+[HOCN]+;Cyanic acid cation;1135.7;1133.2
+[CH3CH2CH]-;Propylidene anion; 300.9; 286.7
+[CH2CCO]-;1,2-Propadien-1-one anion;  49.8;  48.6
+[CCl3CCl2]+;Pentachloroethylium; 838.1; 836.5
+[CH3CHN]+;Ethylideneammoniumylidene;  1310;1300.4
+[HCCCO]+;1-Oxo-2-propyn-1-ylium;1001.7;1003.2
+[HCCCO]-;3-Oxo-1,2-propadien-1-yl anion; 179.4; 182.1
+[CCl3CCl2]-;Pentachloroethanide;-281.7;-280.3
+(H2)(O);O--HH Complex; 247.2; 248.2
+[CCCHO]-;Formylethynyl anion; 100.5; 101.9
+[OC(CHCH)]+;2-Cyclopropen-1-one cation;1078.8;1075.7
+[CH3CHN]-;Ethylideneazanide; 147.8; 137.6
+[NH2NH2]-;Hydrazine anion; 232.3;   218
+[O]-2;Oxide;   651;   653
+NHC(OH)NH2;Isourea;-156.1;-172.7
+[NH2CO]-;Carbamoyl anion; -81.9; -87.8
+[HCCOH]+;Ethynol cation;1063.8;1061.2
+[FCN]-;Cyanic fluoride anion; -20.7; -18.7
+[OC(O)O]+;Oxooxoniumylmethoxy;  1178;1177.3
+[HOCN]-;Cyanic acid anion;  -9.2;  -9.5
+CCCl2;Dichlorovinylidene; 424.4; 427.6
+CCHCl;Chlorovinylidene; 429.3;   431
+[ONN(O)O]+;Nitrogen sesquioxide cation;1027.6;1023.7
+OC(O)O;Carbonylbis(oxy);-144.7;-145.7
+[HCCOH]-;Ethynol anion; 163.5;   165
+[HCCN]+;Cyanomethyliumyl;1506.4;  1508
+[HCCN]-;Cyanomethylene anion; 286.3; 286.8
+[HCNC]+;Isocyanomethyliumyl;1506.7;1508.6
+[HCNC]-;Isocyanomethylene anion; 401.4; 402.1
+[CCCO]+;3-Oxo-1,2-propadien-1-ylium-1-yl;1380.4;1385.7
+[CCCO]-;3-Oxo-1,2-propadienylidene anion; 224.4; 230.2
+[CH3F]+;Fluoromethane cation;981.82;974.32
+[HCCNH]-;Ethynylamidogen anion; 233.7; 230.5
+[(H2O)2]+;Water dimer cation; 557.2; 546.8
+[CH(CHCHCH)]+;1,3-Cyclobutadiene cation;1215.6;1207.2
+[CH3Br]+;Bromomethane cation;996.66;981.75
+[CH3I]+;Iodomethane cation;944.82;935.42
+[HONC]+;Isofulminic acid cation;  1377;1374.9
+[ClNC]-;Isocyanogen chloride anion; 102.9; 107.4
+[HOBr]+;Hypobromous acid cation;975.25;964.63
+[CF3I]+;Iodotrifluoromethane cation; 412.8; 407.5
+[FNC]+;Isocyanic fluoride cation;  1618;1618.6
+[FNC]-;Isocyanic fluoride anion;  73.9;  75.6
+[CH3NCH]+;N-Methylidynemethanaminium; 881.1; 870.3
+[CH2(CHCHCH)]-;Cyclobutenide; 320.4; 307.9
+[C6H5OO]+;Phenylperoxy cation;1019.1;  1002
+[C6H5OO]-;Phenylperoxy anion; -38.8; -55.7
+[CH2CNH2]+;1-Aminoethenylium;   900; 889.2
+[CH2C(CHCHCHCH)]+;Fulvene cation;1043.7;1027.9
+[CH2C(CHCHCHCH)]-;Fulvene anion; 191.4; 176.4
+[CH2CNH2]-;1-Aminoethenide;   216; 205.2
+[OCC(CHCHCHCH)]+;Fulvenone cation; 913.5; 903.3
+HHH;Trihydrogen; 254.5; 250.7
+[N2]-;Dinitrogen anion; 192.5; 192.5
+[Si]+4;Silicon atom tetracation;10401.1;10404.1
+Si-;Silicon anion;316.28;319.26
+[Si2]-;Disilicon anion; 375.1;   379
+[SiC]-;Silicon carbide anion; 508.8; 513.4
+[CH4]-;Methane anion;  27.3;  19.4
+[SiF3]-;Trifluorosilyl anion;-1225.8;-1229.1
+[SiF2]-;Difluorosilylene anion;-652.8;-653.1
+[CH3CH2N]-;Ethylimidogen anion; 277.3; 263.4
+[CH3CH2N]+;Ethylimidogen cation;1394.6;1381.4
+[SiH3SiH3]+;Disilane cation;1030.2;1017.4
+[N(CH2CH2)]+;1-Aziridinylium;1265.9;1254.2
+[CH2CN]+;Cyanomethylium;1256.23;1253.59
+[ONONO]+;mu-Oxodioxodinitrogen;   984;   981
+[N(CH2CH2)]-;1-Aziridinide; 244.2; 231.8
+[HOCl(O)(O)O]+;Perchloric acid cation;1190.2;1180.6
+[CH2CHC(CHCHCHCH)]-;2-(Cyclopenta-2,4-dien-1-ylidene)ethan-1-ide; 132.6; 114.5
+[ON(O)O]+;Nitrato;1290.59;1285.88
+[((CHCH)(CH(CHCH)CH))]+;Benzvalene cation;1200.3;1184.9
+[NH2NH]-;Diazanide; 249.3; 239.3
+[ClNC]+;Isocyanogen chloride cation;  1481;1482.2
+[(CH3)2NCH2]-;(Dimethylamino)methyl anion; 190.9; 166.7
+[HNC]-;Hydrogen isocyanide anion;191.63;191.81
+[Br2]+;Diatomic bromine cation;1060.34;1045.39
+[HCCCCCH]+;1-Ethynyl-2-propyn-1-ylium-1-yl;1537.2;1540.9
+[HCCCCCH]-;1-Ethynyl-2-propyn-1-ylidene anion; 584.3; 589.3
+[CNCN]-;Isocyanogen anion; 386.6; 388.7
+HCCCHCC;1,2-Pentadien-4-ynylidene; 791.3; 794.1
+CCC(CHCH);2-Cyclopropen-1-ylideneethenylidene; 807.2; 808.8
+[HN(O)O]+;Hydrodioxonitrogen cation;1130.1;1123.5
+[HCCCCCH2]+;2,4-Pentadiynylium;1362.6;1362.6
+[HCCCCCH2]-;Pentatetraen-1-ide; 433.5;   434
+[CHCCHCCH]+;1-Ethynyl-2-propynylium;  1380;1378.7
+[HBr]-;Hydrobromate ion;  -5.5;   -12
+[HI]+;Iodoniumyl;1030.73;1028.56
+[HCN]-;Hydrogen cyanide anion;129.536;129.058
+[CNNC]-;Diisocyanogen anion; 456.8; 462.5
+[CH3CHNH2]-;1-Aminoethyl anion; 174.6;   157
+[C6H4(C4H4)]+;Naphtalene cation;956.93;933.86
+[C6H4(C4H4)]-;Naphtalene anion; 187.6; 164.7
+[NNCC]+;Diazoethenylidene cation;1771.1;1773.1
+[NNCC]-;Diazoethenylidene anion; 529.6; 532.2
+[CCF2]-;Difluorovinylidene anion; -88.2; -87.1
+CCBr2;Dibromovinylidene; 524.1;   513
+CC(NN);3H-diazirin-3-ylidene-methylene; 837.3; 839.9
+CCHF;Fluorovinylidene; 298.9; 300.1
+CCHBr;Bromovinylidene; 471.9; 465.9
+[CCCCH]+;Butadiynylium;1781.3;1787.8
+[I2]+;Diiodine cation;963.523;960.408
+[He]+2;Helium dication;7622.84;7622.84
+[CF2O]-;Difluorophosgene anion;-602.3;-604.2
+[HeH]-;Hydrohelate;143.256;139.027
+[C]-2;Carbon dianion;1027.5;  1033
+[CCl2O]+;Phosgene cation;   897;   896
+[F]+9;Fluorine atom nonacation;262121;262123
+[Ne]+10;Neon decacation;338828;338828
+NeH;Neon hydride;215.989;211.755
+[NeH]-;Hydroneonate;143.096;142.084
+[Kr]+2;Krypton dication;3701.12;3701.12
+[Xe]+2;Xenon dication;3194.14;3194.14
+[CH2(CHCH)]+;Cycloprop-2-yliumyl;1225.56;1218.41
+[S]+6;Sulfur atom hexacation;26947.2; 26949
+[FCl(F)(F)(F)F]+;Chlorine pentafluoride cation;1005.9; 996.9
+[S]-2;Sulfur atom dianion;   454; 455.8
+[S2]-;Disulfur anion;-34.06;-33.12
+[OSO]+;Sulfonyl cation;897.01;894.74
+[SO]-;Oxosulfate;-102.66;-101.89
+[OS(O)O]+;Sulfur trioxide cation;847.65;844.74
+[ClCO]-;Chloroformyl anion;-356.5;-352.9
+[OS(O)O]-2;Sulfite;-273.7;-279.2
+[OS(O)Cl2]+;Sulfuryl dichloride cation; 814.1; 809.8
+[OS(O)Cl2]-;Dichlorodioxosulfate;-604.8;-607.4
+[SSO]+;Disulfur oxide cation;970.53;969.25
+[SSO]-;Oxothioxosulfate;-231.95;-233.55
+[H2S]+;Sulfoniumyl;992.67;989.76
+[H2S]-;Dihydrogen sulfide ion; 108.2; 106.9
+[OS(O)(OH)2]+;Sulfuric acid cation; 400.8; 387.8
+[ClCN]+;Cyanogen chloride cation;1326.22;1327.55
+[HCCCCCCH]+;1,3,5-Hexatriyne cation;1600.9;1605.6
+[BrCN]+;Cyanogen bromide cation;1331.3;  1325
+[H2O]-;Water anion; -50.1;   -53
+[Cl]+7;Chlorine atom heptacation; 39520; 39522
+[C]-3;Carbon trianion;1813.2;1818.6
+SH(O)(O)OH;Sulfonic acid;-482.2;-494.8
+[IO]+;Oxoiodonium;1065.2;1063.2
+[CH3SH]+;Methanethiol cation;901.89;891.85
+[CH2S]-;Thioformaldehyde anion;  75.8;  72.8
+[CH3CH2SH]+;Ethanethiol cation;867.12;850.96
+[CH3SCH3]+;Dimethyl sulfide cation;817.86;802.11
+[SCS]+;Carbon disulfide cation;1088.28;1090.03
+[SCS]-;Sulfidocarbonothioyl;  73.5;    75
+[FCl(F)(F)(F)F]-;Chlorine pentafluoride anion;-619.1;-622.6
+[CS]+;Carbon monosulfide cation;1371.34;1374.57
+[CS]-;Carbon monosulfide anion; 259.1; 262.9
+[NF]-;Fluoronitrate; 211.3; 211.5
+Pt-;Platinum atom anion; 358.4; 358.9
+[NF2NF2]-;Tetrafluorohydrazine anion;-184.5;  -190
+[Pt2]+;Platinum dimer cation;  1661;1659.6
+[Pt2]-;Platinum dimer anion; 640.3; 639.8
+[N]+7;Nitrogen atom heptacation;143853;143855
+Ar+;Argon cation;1520.57;1520.58
+[Ar2]+;Argon dimer cation;1393.76;1391.17
+[Ar]+2;Argon atom dication;4186.43;4186.47
+Ar2;Argon dimer;-1.013;-6.347
+Ar-;Argon anion;    25;    25
+Ne-;Neon anion;    13;    13
+Kr-;Krypton anion;   110;   110
+Rn+;Radon cation;1037.07;1037.07

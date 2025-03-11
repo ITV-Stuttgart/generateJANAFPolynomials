@@ -1,0 +1,7 @@
+
+
+# Ignore virtual environments
+.venv/*
+
+
+.vscode/*
