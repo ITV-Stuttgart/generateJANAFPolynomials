@@ -56,6 +56,13 @@ class GenCHEMKINThermo:
                     self.speciesData[specie]['upperPolyFit'] = upperFit
 
     def writeThermoFile(self, filename):
+        """Write the thermodynamic data in the CHEMKIN-II format.
+        
+        Parameters:
+        -----------
+        filename : str
+            File name of the CHEMKIN-II file to write
+        """
         with open(filename, "w") as fp:
             # First write a comment block
             fp.write('! This file has been generated with the CryogenicJanafPolynmials tool\n')
@@ -183,6 +190,9 @@ class GenCHEMKINThermo:
         return ax
 
     def dataFromThermoLib(self,specieName):
+        """Return true if the species thermodynamic data is generated from the
+        thermodynamic library.
+        """
         if self.speciesData[specieName]['lowerPolyFit'].dataFromThermoLib or self.speciesData[specieName]['upperPolyFit'].dataFromThermoLib:
             return True
         return False

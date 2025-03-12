@@ -3,7 +3,7 @@ import importlib.resources
 
 
 class HeatOfFormation:
-
+    """Class to read the heat of formation from a file"""
     def _getValidName(self,specie):
         # If the specie is not equal the short name, look through the long names
         if not specie in self._specieNameTable:
@@ -21,6 +21,10 @@ class HeatOfFormation:
         self.load_data()
 
     def getStandard(self,specie):
+        """Get the heat of formation for the specie at standard conditions
+        of 298K. Returns 0 and a warning if the species is not found in the 
+        library.
+        """
         specie = self._getValidName(specie)
         if specie in self._data:
             return self._data[specie]['heatOfFormation_298K']
