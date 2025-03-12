@@ -38,8 +38,12 @@ class GenCHEMKINThermo:
         self.species = []
         self.speciesData = {}
 
-    def genThermoData(self,species):
-        
+    def genThermoData(self,*args):
+        if len(args) == 0:
+            species = self.species
+        else:
+            species = args[0]
+
         for specie in species:
             if ThermoFit.ContainsFluid(specie):
                 # First for the lower temperature range

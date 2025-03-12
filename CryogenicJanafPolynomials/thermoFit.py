@@ -75,25 +75,6 @@ class ThermoFit:
         H = H[ind]
         T = T[ind]
 
-        # Find minimum value
-        ind = np.argmin(Cp)
-
-        if ind > 0:
-            # Calculate the first valid gradient after the ind position.
-            # It may happen that the gradient at T[ind] is negative, which is unphysical.
-            # Then higher temperature points must be found
-            CpGrad = CP.PropsSI('d(C)/d(T)|P', 'P|'+self.phase, self.p, 'T',
-                                T[ind], self.ThermoFluidName(self.speciesName))
-            if CpGrad <= 0:
-                ind += 1
-                CpGrad = CP.PropsSI('d(C)/d(T)|P', 'P|'+self.phase, self.p, 'T',
-                                    T[ind], self.ThermoFluidName(self.speciesName))
-            for i in range(ind):
-                Cp[i] = (T[i]-T[ind])*CpGrad + Cp[ind]
-
-            # Update TMin
-            self.TMin = T[ind]
-
         # Set the reference temperature to 298K
         H0 = CP.PropsSI('H', 'P|'+self.phase, self.p, 'T', 298.15, self.ThermoFluidName(self.speciesName))
         H = H - H0

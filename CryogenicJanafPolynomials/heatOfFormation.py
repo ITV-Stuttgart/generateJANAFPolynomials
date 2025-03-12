@@ -26,6 +26,7 @@ class HeatOfFormation:
             return self._data[specie]['heatOfFormation_298K']
         else:
             print(f"Specie {specie} not found in data bank")
+            return 0
 
     def load_data(self):
         """Reads the static heat of formation file inside the package."""
@@ -44,3 +45,4 @@ class HeatOfFormation:
 
         except FileNotFoundError:
             print("heatOfFormation.dat file not found!")
+

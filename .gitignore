@@ -1,7 +1,9 @@
-
+CryogenicJanafPolynomials/__pycache__/
 
 # Ignore virtual environments
 .venv/*
 
+# Ignore the generated therm.dat file
+therm.dat
 
 .vscode/*
