@@ -58,24 +58,24 @@ class GenCHEMKINThermo:
     def writeThermoFile(self, filename):
         with open(filename, "w") as fp:
             # First write a comment block
-            fp.write(
-                '! This file has been generated with the CryogenicJanafPolynmials tool\n')
-            fp.write(
-                '! Polynomial coefficients are generated from the CoolProp library\n')
-
+            fp.write('! This file has been generated with the CryogenicJanafPolynmials tool\n')
+            fp.write('! Polynomial coefficients are generated from the CoolProp library\n')
+            fp.write('! The Min/Max temperature is set to the global values,\n')
+            fp.write('! some polynomials may result in unpyhsical values.\n')
+            fp.write('! However, this is required for OpenFOAM to not limit the temperature range\n')
+            fp.write('! to the largest TMin or lowest TMax\n')
             fp.write("THERMO ALL\n")
             fp.write(
                 f' {self.TMin: 09.3f} {self.TCommon: 09.3f} {self.TMax: 09.3f}\n')
             for specie in self.species:
                 data = self.speciesData[specie]
-                fp.write(
-                    f"{specie: <18}{data['date']: <6}{data['atomicSymbol']: <19}{data['phase']}{data['lowerPolyFit'].TMin: 10.3f}{data['upperPolyFit'].TMax: 10.3f}{data['lowerPolyFit'].TMax: 010.3f}    1\n")
-
                 if 'lowerPolyFit' in data:
                     if data['lowerPolyFit'].dataFromThermoLib or data['upperPolyFit'].dataFromThermoLib:
-                        fp.write("! Generated with the polynomial fit with CoolProp data\n")
+                        fp.write(f"! {specie} generated with the polynomial fit with CoolProp data\n")
                     lowerCoeff = data['lowerPolyFit'].coeffs
                     upperCoeff = data['upperPolyFit'].coeffs
+                    fp.write(
+                        f"{specie: <18}{data['date']: <6}{data['atomicSymbol']: <19}{data['phase']}{self.TMin: 10.3f}{self.TMax: 10.3f}{self.TCommon: 010.3f}    1\n")
                     fp.write(
                         f"{lowerCoeff[0]: 15E}{lowerCoeff[1]: 15E}{lowerCoeff[2]: 15E}{lowerCoeff[3]: 15E}{lowerCoeff[4]: 15E}    2\n")
                     fp.write(
@@ -126,6 +126,11 @@ class GenCHEMKINThermo:
                     self.speciesData[specieName]['date'] = line[18:24]
                     self.speciesData[specieName]['atomicSymbol'] = line[24:44]
                     self.speciesData[specieName]['phase'] = line[44]
+                    
+                    TRange = line[45:76].split()
+                    TMin = float(TRange[0])
+                    TMax = float(TRange[1])
+                    TCommon = float(TRange[2])
 
                     # Indicate that it is read from the file
                     self.speciesData[specieName]['dataFromThermoLib'] = False
