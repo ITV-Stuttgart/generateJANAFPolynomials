@@ -38,20 +38,32 @@ class GenCHEMKINThermo:
         self.species = []
         self.speciesData = {}
 
-    def genThermoData(self,*args):
+    def genThermoData(self,*args,**kwargs):
+
+        TLimits = []
+
         if len(args) == 0:
             species = self.species
         else:
             species = args[0]
 
-        for specie in species:
+        if "TLimits" in kwargs:
+            TLimits = kwargs['TLimits']
+        
+        if not TLimits:
+            for specie in species:
+                TLimits.append((self.TMin,self.TCommon,self.TMax))
+
+
+
+        for specie, TLimit in zip(species,TLimits):
             if ThermoFit.ContainsFluid(specie):
                 # First for the lower temperature range
-                lowerFit = ThermoFit(specie, self.TMin, self.TCommon, p=self.p)
+                lowerFit = ThermoFit(specie, TLimit[0], TLimit[1], p=self.p)
                 if lowerFit.genFromThermoLib():
                     self.speciesData[specie]['lowerPolyFit'] = lowerFit
 
-                upperFit = ThermoFit(specie, self.TCommon, self.TMax, p=self.p)
+                upperFit = ThermoFit(specie, TLimit[1], TLimit[2], p=self.p)
                 if upperFit.genFromThermoLib():
                     self.speciesData[specie]['upperPolyFit'] = upperFit
 
@@ -84,11 +96,11 @@ class GenCHEMKINThermo:
                     fp.write(
                         f"{specie: <18}{data['date']: <6}{data['atomicSymbol']: <19}{data['phase']}{self.TMin: 10.3f}{self.TMax: 10.3f}{self.TCommon: 010.3f}    1\n")
                     fp.write(
-                        f"{lowerCoeff[0]: 15E}{lowerCoeff[1]: 15E}{lowerCoeff[2]: 15E}{lowerCoeff[3]: 15E}{lowerCoeff[4]: 15E}    2\n")
+                        f"{upperCoeff[0]: 15E}{upperCoeff[1]: 15E}{upperCoeff[2]: 15E}{upperCoeff[3]: 15E}{upperCoeff[4]: 15E}    2\n")
                     fp.write(
-                        f"{lowerCoeff[5]: 15E}{lowerCoeff[6]: 15E}{upperCoeff[0]: 15E}{upperCoeff[1]: 15E}{upperCoeff[2]: 15E}    3\n")
+                        f"{upperCoeff[5]: 15E}{upperCoeff[6]: 15E}{lowerCoeff[0]: 15E}{lowerCoeff[1]: 15E}{lowerCoeff[2]: 15E}    3\n")
                     fp.write(
-                        f"{upperCoeff[3]: 15E}{upperCoeff[4]: 15E}{upperCoeff[5]: 15E}{upperCoeff[6]: 15E}                   4\n")
+                        f"{lowerCoeff[3]: 15E}{lowerCoeff[4]: 15E}{lowerCoeff[5]: 15E}{lowerCoeff[6]: 15E}                   4\n")
                 else:
                     print(f"No thermo data is available for {specie}!")
             fp.write("END\n")
@@ -177,6 +189,15 @@ class GenCHEMKINThermo:
                     self.speciesData[currSpeciesName]['lowerPolyFit'] = lowerCoeffFit
                     readSpeciesLine += 1
                     readSpeciesLine %= 4
+
+    def getValue(self, T, speciesName, var):
+        if np.max(T) < self.TCommon:
+            return self.speciesData[speciesName]['lowerPolyFit'].getValue(T,var)
+        elif np.max(T) >= self.TCommon:
+            return self.speciesData[speciesName]['upperPolyFit'].getValue(T,var)
+        else:
+            print('Could not be computed')
+            return -1
 
     def plot(self, ax, speciesName, var, **kwargs):
         """Plot the species property in the given axis"""

@@ -53,7 +53,7 @@ class ThermoFit:
         range and return the T vector, Cp, H, and S vectors
         """
         # Generate the temperature vector
-        T = np.linspace(0.9*self.TMin, 1.1*self.TMax, 120)
+        T = np.linspace(0.975*self.TMin, 1.1*self.TMax, 120)
 
         # Calculate the enthalpy, entropy and heat capacity values
         H = np.zeros(T.shape)
@@ -196,13 +196,28 @@ class ThermoFit:
 
         return self.dataFromThermoLib
 
+    def getValue(self,T,prop):
+        """Return the evaulated function for the given property at the 
+        given temperature.
+        
+        E.g.:
+            getValue(300,'Cp')
+            Returns the heat capacity Cp at the temperature 300K
+        """
+        if prop == "Cp":
+            return _CpFunc(T, self.coeffs)
+        elif prop == "H":
+            return _HFunc(T, self.coeffs)
+
     def plot(self, ax, prop, **kwargs):
         xMin = self.TMin
         xMax = self.TMax
         if 'TMin' in kwargs:
             xMin = kwargs['TMin']
+            kwargs.pop('TMin')
         if 'TMax' in kwargs:
             xMin = kwargs['TMax']
+            kwargs.pop('TMax')
 
         xx = np.linspace(xMin, xMax)
         if prop == "Cp":
