@@ -117,8 +117,10 @@ class GenCHEMKINThermo:
         currSpeciesName = "undefined"
         with open(chemkinFile) as fp:
             for line in fp:
+                line = line.rstrip()
+
                 # Check for comments
-                if line[0] == '!':
+                if not line or line[0] == '!':
                     continue
                 if "END" in line:
                     break
