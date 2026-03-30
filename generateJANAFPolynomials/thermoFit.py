@@ -13,6 +13,7 @@ import numpy as np
 import scipy.optimize as opt
 from scipy.optimize import curve_fit
 from .heatOfFormation import HeatOfFormation
+import re
 
 
 def _CpFunc(T, coeffs):
@@ -224,3 +225,62 @@ class ThermoFit:
             return ax.plot(xx, _CpFunc(xx, self.coeffs), **kwargs)
         elif prop == "H":
             return ax.plot(xx, _HFunc(xx, self.coeffs), **kwargs)
+        
+    def parse_formula(self):
+        if self._thermoLibraryBackend == "CoolProp":
+            return self._parse_coolprop_formula()
+        # elif self._thermoLibraryBackend == "MyLib":
+        #     return self._parse_mylib_formula()
+        else:
+            # Skip parsing for unknown backends, return empty composition
+            print(f"Unknown backend: {self._thermoLibraryBackend}, skip parsing atomic composition.")
+            return MoleculeComposition({})
+
+    def _parse_coolprop_formula(self):
+        formula_str = CP.get_fluid_param_string(self.speciesName, "formula")
+        pattern = r"([A-Z][a-z]?)(?:_\{(\d+)\})?"
+        matches = re.findall(pattern, formula_str)
+        composition_dict = {element: int(count) if count else 1 for element, count in matches}
+        return MoleculeComposition(composition_dict)
+
+class MoleculeComposition:
+    """
+    This class represents the atomic composition of a molecule.
+        Parameters
+        ----------
+        composition_dict : dict
+            A dictionary where the keys are element symbols (e.g., 'C', 'H', 'O')
+            and the values are the corresponding counts of each element in the molecule.
+
+        Methods
+        -------
+        to_chemkin()
+            Converts the molecular composition to a Chemkin-formatted string.
+
+    """
+    def __init__(self, composition_dict):
+        self.comp = composition_dict
+
+    def to_chemkin(self):
+        """
+        Converts a dictionary of atoms into a 20-character Chemkin string
+        following the 4(2A1, I3) fixed-width format.
+        Returns empty string if no elements.
+        """
+        if not self.comp:
+            return ""
+        chemkin_str = ""
+        elements = list(self.comp.items())
+        
+        # Chemkin-II allows up to 4 element pairs on the line
+        for i in range(4):
+            if i < len(elements):
+                symbol, count = elements[i]
+                # 2A1: Symbol left-aligned in 2 spaces
+                # I3:  Count right-aligned in 3 spaces
+                chemkin_str += f"{symbol:<2}{count:>3}"
+            else:
+                # Fill remaining slots with empty symbols and 0 counts
+                chemkin_str += ""
+                
+        return chemkin_str

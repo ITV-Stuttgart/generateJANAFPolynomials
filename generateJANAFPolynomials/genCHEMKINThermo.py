@@ -54,18 +54,41 @@ class GenCHEMKINThermo:
             for specie in species:
                 TLimits.append((self.TMin,self.TCommon,self.TMax))
 
+        for specie in species:
+            
+            if specie not in self.speciesData:
+                # Generate default specie data set
+                self.speciesData[specie] = {}
+                self.speciesData[specie]['date'] = ""
+                self.speciesData[specie]['atomicSymbol'] = ""
+                # Phase (S)olid, (L)iquid, (G)as by ChemkinII convention
+                self.speciesData[specie]['phase'] = "_"
 
 
         for specie, TLimit in zip(species,TLimits):
             if ThermoFit.ContainsFluid(specie):
-                # First for the lower temperature range
+                # Fit for the lower temperature range
                 lowerFit = ThermoFit(specie, TLimit[0], TLimit[1], p=self.p)
                 if lowerFit.genFromThermoLib():
                     self.speciesData[specie]['lowerPolyFit'] = lowerFit
-
+                # Fit for the upper temperature range
                 upperFit = ThermoFit(specie, TLimit[1], TLimit[2], p=self.p)
                 if upperFit.genFromThermoLib():
                     self.speciesData[specie]['upperPolyFit'] = upperFit
+
+                # Set the phase based on the ThermoFit phase
+                if lowerFit.phase == 'gas' and upperFit.phase == 'gas':
+                    self.speciesData[specie]['phase'] = 'G'
+                elif lowerFit.phase == 'liquid' and upperFit.phase == 'liquid':
+                    self.speciesData[specie]['phase'] = 'L'
+                elif lowerFit.phase == 'solid' and upperFit.phase == 'solid':
+                    self.speciesData[specie]['phase'] = 'S'
+                else:
+                    self.speciesData[specie]['phase'] = '_'
+
+                # Set the atomic symbol and formula based on the ThermoFit parsing
+                self.speciesData[specie]['atomicSymbol'] = lowerFit.parse_formula().to_chemkin()
+
 
     def writeThermoFile(self, filename):
         """Write the thermodynamic data in the CHEMKIN-II format.
@@ -94,7 +117,7 @@ class GenCHEMKINThermo:
                     lowerCoeff = data['lowerPolyFit'].coeffs
                     upperCoeff = data['upperPolyFit'].coeffs
                     fp.write(
-                        f"{specie: <18}{data['date']: <6}{data['atomicSymbol']: <19}{data['phase']}{self.TMin: 10.3f}{self.TMax: 10.3f}{self.TCommon: 010.3f}    1\n")
+                        f"{specie: <18}{data['date']: <6}{data['atomicSymbol']: <20}{data['phase']}{self.TMin: 10.3f}{self.TMax: 10.3f}{self.TCommon: 010.3f}    1\n")
                     fp.write(
                         f"{upperCoeff[0]: 15E}{upperCoeff[1]: 15E}{upperCoeff[2]: 15E}{upperCoeff[3]: 15E}{upperCoeff[4]: 15E}    2\n")
                     fp.write(
