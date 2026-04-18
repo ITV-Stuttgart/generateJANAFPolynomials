@@ -188,7 +188,7 @@ class ThermoFit:
 
         self.coeffs = np.zeros(7)
         self.coeffs[0:5] = CpCoeffs
-        self.coeffs[5] = popt
+        self.coeffs[5] = popt[0]
         if np.count_nonzero(np.isnan(self.coeffs)) > 0:
             self.dataFromThermoLib = False
         else:
