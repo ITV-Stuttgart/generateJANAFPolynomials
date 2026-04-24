@@ -1,6 +1,7 @@
 """Generates the CHEMKIN thermo file for a given set of species"""
 
 import numpy as np
+import re
 from .thermoFit import ThermoFit
 import CoolProp.CoolProp as CP
 
@@ -39,6 +40,32 @@ class GenCHEMKINThermo:
         self.species = []
         self.speciesData = {}
 
+
+    def parse_coolprop_species(self,specie: str) -> dict:
+        """
+        Given a CoolProp species name, return a dict of element counts.
+        
+        Example:
+            "Water" -> {"H": 2, "O": 1}
+        """
+
+        # 1. Get formula from CoolProp
+        formula = CP.get_fluid_param_string(specie, "formula")
+
+        # 2. Normalize CoolProp LaTeX-style formatting
+        formula = re.sub(r"_\{(\d+)\}", r"\1", formula)  # H_{2} -> H2
+        formula = formula.replace("{", "").replace("}", "")
+
+        # 3. Parse elements and counts
+        pattern = r"([A-Z][a-z]?)(\d*)"
+        elements = {}
+
+        for elem, count in re.findall(pattern, formula):
+            count = int(count) if count else 1
+            elements[elem] = elements.get(elem, 0) + count
+
+        return elements
+
     def genThermoData(self,*args,**kwargs):
 
         TLimits = []
@@ -54,11 +81,15 @@ class GenCHEMKINThermo:
                 self.species.append(specie)
                 self.speciesData[specie] = {}
                 self.speciesData[specie]['date'] = '0'
-                self.speciesData[specie]['atomicSymbol'] = CP.get_fluid_param_string(
-                        specie, "formula"
-                    )
-                # Replace brackets
-                self.speciesData[specie]['atomicSymbol'] = self.speciesData[specie]['atomicSymbol'].replace("_", " ").replace("{", "").replace("}", "")
+                atomic_formulat = self.parse_coolprop_species(specie)
+                atomic_string = ''
+                for elem, count in atomic_formulat.items():
+                    atomic_string += f'{elem[:2]: <2}'
+                    if count == 1:
+                        atomic_string += '   '
+                    else:
+                        atomic_string += f'{count:3d}'
+                self.speciesData[specie]['atomicSymbol'] = atomic_string
                 self.speciesData[specie]['phase'] = 'G'
 
         if "TLimits" in kwargs:

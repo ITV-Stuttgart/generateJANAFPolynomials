@@ -60,11 +60,17 @@ class ThermoFit:
         Cp = np.zeros(T.shape)
         S = np.zeros(T.shape)
 
+        T_triple = CP.PropsSI('Ttriple',self.speciesName)
+
         for i in range(len(T)):
-            try:
-                H[i] = CP.PropsSI('H', 'P|'+self.phase, self.p, 'T', T[i], self.ThermoFluidName(self.speciesName))
-                Cp[i] = CP.PropsSI('C', 'P|'+self.phase, self.p, 'T', T[i], self.ThermoFluidName(self.speciesName))
-            except:
+            if T[i] > T_triple:
+                try:
+                    H[i] = CP.PropsSI('H', 'P|'+self.phase, self.p, 'T', T[i], self.ThermoFluidName(self.speciesName))
+                    Cp[i] = CP.PropsSI('C', 'P|'+self.phase, self.p, 'T', T[i], self.ThermoFluidName(self.speciesName))
+                except:
+                    H[i] = np.nan
+                    Cp[i] = np.nan
+            else:
                 H[i] = np.nan
                 Cp[i] = np.nan
 
