@@ -58,6 +58,9 @@ class GenCHEMKINThermo:
 
         for specie, TLimit in zip(species,TLimits):
             if ThermoFit.ContainsFluid(specie):
+                if specie not in self.speciesData:
+                    self.speciesData[specie] = {}
+
                 # First for the lower temperature range
                 lowerFit = ThermoFit(specie, TLimit[0], TLimit[1], p=self.p)
                 if lowerFit.genFromThermoLib():
