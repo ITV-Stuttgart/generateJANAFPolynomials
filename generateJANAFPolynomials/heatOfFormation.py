@@ -35,6 +35,7 @@ class HeatOfFormation:
                 UserWarning,
                 stacklevel=2
                 )
+            return 0
 
     def load_data(self):
         """Reads the static heat of formation file inside the package."""
