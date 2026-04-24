@@ -1,6 +1,6 @@
 """Dictionary with the heat of formation"""
 import importlib.resources
-
+import warnings
 
 class HeatOfFormation:
     """Class to read the heat of formation from a file"""
@@ -29,8 +29,12 @@ class HeatOfFormation:
         if specie in self._data:
             return self._data[specie]['heatOfFormation_298K']
         else:
-            print(f"Specie {specie} not found in data bank")
-            return 0
+            warnings.warn(
+                f"Species '{specie}' not found in heatOfFormation database. "
+                "Returning default value 0.0.",
+                UserWarning,
+                stacklevel=2
+                )
 
     def load_data(self):
         """Reads the static heat of formation file inside the package."""

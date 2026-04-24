@@ -2,6 +2,7 @@
 
 import numpy as np
 from .thermoFit import ThermoFit
+import CoolProp.CoolProp as CP
 
 
 class GenCHEMKINThermo:
@@ -47,6 +48,19 @@ class GenCHEMKINThermo:
         else:
             species = args[0]
 
+        # Check if species is alread in list, if not add the missing arguments
+        for specie in species:
+            if specie not in self.species:
+                self.species.append(specie)
+                self.speciesData[specie] = {}
+                self.speciesData[specie]['date'] = '0'
+                self.speciesData[specie]['atomicSymbol'] = CP.get_fluid_param_string(
+                        specie, "formula"
+                    )
+                # Replace brackets
+                self.speciesData[specie]['atomicSymbol'] = self.speciesData[specie]['atomicSymbol'].replace("_", " ").replace("{", "").replace("}", "")
+                self.speciesData[specie]['phase'] = 'G'
+
         if "TLimits" in kwargs:
             TLimits = kwargs['TLimits']
         
@@ -58,9 +72,6 @@ class GenCHEMKINThermo:
 
         for specie, TLimit in zip(species,TLimits):
             if ThermoFit.ContainsFluid(specie):
-                if specie not in self.speciesData:
-                    self.speciesData[specie] = {}
-
                 # First for the lower temperature range
                 lowerFit = ThermoFit(specie, TLimit[0], TLimit[1], p=self.p)
                 if lowerFit.genFromThermoLib():
@@ -97,7 +108,7 @@ class GenCHEMKINThermo:
                     lowerCoeff = data['lowerPolyFit'].coeffs
                     upperCoeff = data['upperPolyFit'].coeffs
                     fp.write(
-                        f"{specie: <18}{data['date']: <6}{data['atomicSymbol']: <19}{data['phase']}{self.TMin: 10.3f}{self.TMax: 10.3f}{self.TCommon: 010.3f}    1\n")
+                        f"{specie[:18]: <18}{data['date'][:6]: <6}{data['atomicSymbol'][:20]: <20}{data['phase']}{self.TMin: 10.3f}{self.TMax: 10.3f}{self.TCommon: 010.3f}    1\n")
                     fp.write(
                         f"{upperCoeff[0]: 15E}{upperCoeff[1]: 15E}{upperCoeff[2]: 15E}{upperCoeff[3]: 15E}{upperCoeff[4]: 15E}    2\n")
                     fp.write(
@@ -143,7 +154,8 @@ class GenCHEMKINThermo:
                     continue
 
                 if readSpeciesLine == 0:
-                    specieName = line[0:18]
+                    line_parts = line.split()
+                    specieName = line_parts[0]
                     specieName = specieName.strip()
                     self.species.append(specieName)
                     self.speciesData[specieName] = {}
