@@ -1,6 +1,6 @@
 [project]
 name = "generateJANAFPolynomials"
-version = "1.0.0"
+version = "1.1.0"
 description = "Generate JANAF polynomials for cryogenic conditions"
 authors = [{name = "Jan Wilhelm Gärtner"}]
 requires-python = ">=3.9"
