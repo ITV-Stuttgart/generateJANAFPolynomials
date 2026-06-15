@@ -1,17 +1,20 @@
 """Dictionary with the heat of formation"""
 import importlib.resources
+import CoolProp.CoolProp as CP
 import warnings
 
 class HeatOfFormation:
+
     """Class to read the heat of formation from a file"""
     def _getValidName(self,specie):
-        # If the specie is not equal the short name, look through the long names
+
+        # If the specie is not equal the short name, look through the alias names
         if not specie in self._specieNameTable:
             for key in self._specieNameTable:
                 if specie in self._specieNameTable[key]:
                     return key
+        
         return specie
-
 
     def __init__(self):
         # Read the heatOfFormation.dat file
@@ -25,6 +28,9 @@ class HeatOfFormation:
         of 298K. Returns 0 and a warning if the species is not found in the 
         library.
         """
+        # Convert to upper case
+        specie = specie.upper()
+
         specie = self._getValidName(specie)
         if specie in self._data:
             return self._data[specie]['heatOfFormation_298K']
@@ -44,12 +50,15 @@ class HeatOfFormation:
             with importlib.resources.open_text(__package__, self._heatOfFormationFile) as f:
                 for line in f:
                     lineParts = line.split(';')
-                    speciesShortName= lineParts[0]
+                    # Always convert to upper case
+                    speciesShortName= lineParts[0].upper()
                     prop = {'speciesFullName': lineParts[1],
                             'heatOfFormation_0K': float(lineParts[2])*1000.0,   # Convert to SI unit [J/mol]
                             'heatOfFormation_298K': float(lineParts[3])*1000.0  # Convert to SI unit [J/mol]
                             }
-                    self._specieNameTable[speciesShortName]=[lineParts[1]]
+                    species_alias_names = [word.upper() for word in lineParts[1].split(' ')]
+
+                    self._specieNameTable[speciesShortName]=species_alias_names
                     self._data[speciesShortName] = prop
 
         except FileNotFoundError:

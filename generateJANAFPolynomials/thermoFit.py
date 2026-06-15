@@ -82,7 +82,7 @@ class ThermoFit:
         T = T[ind]
 
         # Set the reference temperature to 298K
-        H0 = CP.PropsSI('H', 'P|'+self.phase, self.p, 'T', 298.15, self.ThermoFluidName(self.speciesName))
+        H0 = CP.PropsSI('HMASS_IDEALGAS', 'P|gas', self.p, 'T', 298.15, self.ThermoFluidName(self.speciesName))
         H = H - H0
 
         # Add the heat of formation

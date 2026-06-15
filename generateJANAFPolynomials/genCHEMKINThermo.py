@@ -85,10 +85,7 @@ class GenCHEMKINThermo:
                 atomic_string = ''
                 for elem, count in atomic_formulat.items():
                     atomic_string += f'{elem[:2]: <2}'
-                    if count == 1:
-                        atomic_string += '   '
-                    else:
-                        atomic_string += f'{count:3d}'
+                    atomic_string += f'{count:3d}'
                 self.speciesData[specie]['atomicSymbol'] = atomic_string
                 self.speciesData[specie]['phase'] = 'G'
 
@@ -107,10 +104,15 @@ class GenCHEMKINThermo:
                 lowerFit = ThermoFit(specie, TLimit[0], TLimit[1], p=self.p)
                 if lowerFit.genFromThermoLib():
                     self.speciesData[specie]['lowerPolyFit'] = lowerFit
-
+                else:
+                    print(f'Could not generate thermo data for {specie}  -- lower fit')
                 upperFit = ThermoFit(specie, TLimit[1], TLimit[2], p=self.p)
                 if upperFit.genFromThermoLib():
                     self.speciesData[specie]['upperPolyFit'] = upperFit
+                else:
+                    print(f'Could not generate thermo data for {specie} -- upper fit')
+            else:
+                print(f'Specie {specie} is not included in CoolProp')
 
     def writeThermoFile(self, filename):
         """Write the thermodynamic data in the CHEMKIN-II format.
@@ -163,6 +165,9 @@ class GenCHEMKINThermo:
         with open(chemkinFile) as fp:
             for line in fp:
                 line = line.rstrip()
+
+                # Convert to upper
+                line = line.upper()
 
                 # Check for comments
                 if not line or line[0] == '!':
